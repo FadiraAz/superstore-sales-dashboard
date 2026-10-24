@@ -1,0 +1,9 @@
+ID_Produk,Nama_Produk,Kategori,Segmen_Harga,Harga_Normal_Rp,Biaya_Produk_per_Unit_Rp
+JH001,Jas Hujan Ponco Basic,Ponco,Entry,45000,18000
+JH002,Jas Hujan Setelan Dewasa,Setelan,Standard,85000,37000
+JH003,Jas Hujan Premium Reflective,Setelan,Premium,145000,68000
+JH004,Jas Hujan Anak,Anak,Entry,55000,23000
+JH005,Jas Hujan Motor Touring,Setelan,Premium,175000,82000
+JH006,Jas Hujan Sepatu Cover,Aksesori,Entry,25000,9000
+JH007,Jas Hujan Ponco Couple,Ponco,Standard,95000,42000
+JH008,Jas Hujan Industri PVC,Industri,Premium,210000,108000

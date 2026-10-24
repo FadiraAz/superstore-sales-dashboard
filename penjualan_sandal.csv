@@ -1,0 +1,1013 @@
+﻿ID_Transaksi,Tanggal,ID_Produk,Nama_Produk,Kategori,Ukuran,Gender,Kota,Channel_Penjualan,Jumlah,Harga_Satuan,Diskon,Metode_Pembayaran,Status,Total_Penjualan
+SEP0001,18/02/2026,SP004,Sandal Comfort,Comfort,39.0,Perempuan,Semarang,Shopee,1,120000,Diskon 20%,Transfer,Selesai,120000
+SEP0002,29/01/2026,SP008,Sandal Slide,Casual,39.0,wanita,Karanganyar,shopee,5,105000,,QRIS,Selesai,525000
+SEP0003,30/06/2026,SP007,Sandal Kids,Kids,41.0,Pria,Surakarta,instagram,1,75000,Voucher,qris,Selesai,75000
+SEP0004,05/07/2026,SP005,Sandal Kids,Kids,44.0,Laki-laki,Klaten,Instagram,1,85000,Tidak Ada,Transfer,Selesai,85000
+SEP0005,14/03/2026,SP006,Sandal Beach,Outdoor,40.0,Wanita,surakarta,Shopee,3,90000,,E-Wallet,Selesai,270000
+SEP0006,01/06/2026,SP006,Sandal Comfort,Comfort,39.0,Wanita,Klaten,Shopee,1,120000,,Transfer,Dibatalkan,120000
+SEP0007,16/05/2026,SP006,Sandal Outdoor,Outdoor,40.0,Laki-laki,Semarang,instagram,4,180000,,E-Wallet,Dikembalikan,720000
+SEP0008,23/05/2026,SP010,Sandal Urban,Fashion,42.0,Laki-laki,Karanganyar,TikTok,3,145000,Diskon 10%,E-Wallet,Selesai,435000
+SEP0009,17/02/2026,SP007,Sandal Urban,Fashion,41.0,Wanita,surakarta,instagram,1,150000,Diskon 20%,transfer,Dibatalkan,150000
+SEP0010,03/06/2026,SP012,Sandal Kids,Kids,43.0,Perempuan,Jakarta,Website,1,85000,,qris,Selesai,85000
+SEP0011,24/04/2026,SP003,Sandal Premium,Premium,39.0,Pria,Solo,Instagram,2,220000,Diskon 20%,COD,Dikembalikan,440000
+SEP0012,26/01/2026,SP005,Sandal Urban,Fashion,42.0,Laki-laki,Jakarta,instagram,3,150000,Tidak Ada,COD ,Dikembalikan,450000
+SEP0013,04/06/2026,SP004,Sandal Kids,Kids,38.0,Pria,Solo,Tokopedia,1,75000,,E-Wallet,Dibatalkan,75000
+SEP0014,24/04/2026,SP011,Sandal Everyday,Comfort,41.0,Wanita,Surakarta,Shopee,2,105000,Diskon 10%,Transfer,Selesai,210000
+SEP0015,30/03/2026,SP010,Sandal Travel,Outdoor,44.0,Pria,Karanganyar,TikTok,2,130000,Voucher,QRIS,Dikembalikan,260000
+SEP0016,26/03/2026,SP009,Sandal Urban,Fashion,40.0,Wanita,surakarta,instagram,1,145000,Voucher,qris,Selesai,145000
+SEP0017,30/01/2026,SP007,Sandal Travel,Outdoor,44.0,Perempuan,surakarta,Tokopedia,4,140000,Tidak Ada,qris,Selesai,560000
+SEP0018,17/05/2026,SP003,Sandal Outdoor,Outdoor,38.0,Wanita,Karanganyar,Shopee,1,175000,Tidak Ada,E-Wallet,Selesai,175000
+SEP0019,19/06/2026,SP010,Sandal Casual,Casual,38.0,Laki-laki,Surakarta,instagram,2,95000,Voucher,E-Wallet,Selesai,190000
+SEP0020,15/03/2026,SP001,Sandal Urban,Fashion,38.0,wanita,Solo,shopee,1,150000,,Transfer,Dikembalikan,150000
+SEP0021,14/06/2026,SP012,Sandal Comfort,Comfort,39.0,pria,Surakarta,Website,2,130000,,COD ,Dibatalkan,260000
+SEP0022,14/02/2026,SP007,Sandal Comfort,Comfort,39.0,Laki-laki,Solo,instagram,1,115000,,Transfer,Selesai,115000
+SEP0023,03/09/2026,SP010,Sandal Flat,Fashion,38.0,pria, SURAKARTA ,TikTok,2,95000,Voucher,E-Wallet,Selesai,190000
+SEP0024,01/07/2026,SP009,Sandal Comfort,Comfort,41.0,Pria,Sukoharjo,Tokopedia,1,120000,Voucher,transfer,Dikembalikan,120000
+SEP0025,27/02/2026,SP011,Sandal Travel,Outdoor,38.0,pria, SURAKARTA ,Tokopedia,2,130000,Diskon 20%,QRIS,Dikembalikan,260000
+SEP0026,21/04/2026,SP008,Sandal Casual,Casual,40.0,Laki-laki,Yogyakarta,TikTok,3,80000,,qris,Dibatalkan,240000
+SEP0027,07/01/2026,SP010,Sandal Beach,Outdoor,38.0,Wanita,Bandung,Shopee,2,100000,Diskon 10%,QRIS,Selesai,200000
+SEP0028,17/06/2026,SP010,Sandal Travel,Outdoor,41.0,Wanita,Bandung,Shopee,1,130000,Tidak Ada,QRIS,Selesai,130000
+SEP0029,03/06/2026,SP012,Sandal Beach,Outdoor,43.0,Wanita,Solo,Website,5,85000,Diskon 10%,QRIS,Dikembalikan,425000
+SEP0030,29/01/2026,SP001,Sandal Slide,Casual,42.0,wanita,surakarta,TikTok,2,120000,Diskon 10%,COD,Selesai,240000
+SEP0031,02/04/2026,SP007,Sandal Outdoor,Outdoor,41.0,Perempuan,Jakarta,Instagram,2,180000,,qris,Selesai,360000
+SEP0032,16/05/2026,SP001,Sandal Premium,Premium,42.0,Pria,Semarang,Instagram,4,235000,Voucher,COD,Selesai,940000
+SEP0033,01/02/2026,SP008,Sandal Flat,Fashion,39.0,Wanita,Semarang,Tokopedia,2,90000,Diskon 20%,QRIS,Dikembalikan,180000
+SEP0034,02/06/2026,SP012,Sandal Slide,Casual,40.0,Pria,Yogyakarta,TikTok,1,115000,Tidak Ada,QRIS,Dikembalikan,115000
+SEP0035,28/04/2026,SP009,Sandal Slide,Casual,43.0,pria,Jakarta,Website,1,120000,,Transfer,Selesai,120000
+SEP0036,03/11/2026,SP005,Sandal Premium,Premium,38.0,wanita,Yogyakarta,Instagram,3,230000,,qris,Selesai,690000
+SEP0037,11/01/2026,SP007,Sandal Everyday,Comfort,42.0,pria,Bandung,Tokopedia,4,115000,Tidak Ada,E-Wallet,Selesai,460000
+SEP0038,20/06/2026,SP008,Sandal Kids,Kids,38.0,pria,Karanganyar,Tokopedia,1,80000,Diskon 10%,COD,Dikembalikan,80000
+SEP0039,04/03/2026,SP002,Sandal Beach,Outdoor,41.0,wanita,surakarta,Instagram,1,100000,,COD ,Selesai,100000
+SEP0040,28/05/2026,SP011,Sandal Comfort,Comfort,44.0,Pria,Surakarta,Tokopedia,2,115000,Diskon 10%,qris,Selesai,230000
+SEP0041,26/03/2026,SP010,Sandal Everyday,Comfort,42.0,Laki-laki,Karanganyar,shopee,3,105000,Diskon 10%,transfer,Dikembalikan,315000
+SEP0042,20/02/2026,SP011,Sandal Slide,Casual,40.0,pria, SURAKARTA ,Shopee,2,110000,Diskon 20%,COD ,Dikembalikan,220000
+SEP0043,05/10/2026,SP011,Sandal Comfort,Comfort,40.0,Laki-laki,Jakarta,Instagram,2,120000,Voucher,E-Wallet,Selesai,240000
+SEP0044,02/03/2026,SP005,Sandal Kids,Kids,39.0,pria,Solo,Instagram,3,70000,Tidak Ada,transfer,Selesai,210000
+SEP0045,13/02/2026,SP006,Sandal Kids,Kids,38.0,Perempuan,Bandung,shopee,1,70000,Diskon 20%,transfer,Selesai,70000
+SEP0046,04/06/2026,SP008,Sandal Flat,Fashion,41.0,Wanita,Jakarta,Instagram,2,100000,Tidak Ada,transfer,Selesai,200000
+SEP0047,24/01/2026,SP012,Sandal Flat,Fashion,38.0,pria,Bandung,Instagram,2,90000,,qris,Selesai,180000
+SEP0048,20/01/2026,SP004,Sandal Travel,Outdoor,44.0,Pria,Solo,Website,1,135000,Diskon 10%,qris,Selesai,135000
+SEP0049,30/04/2026,SP002,Sandal Sport,Sport,40.0,wanita,Solo,Tokopedia,4,160000,Tidak Ada,E-Wallet,Dikembalikan,640000
+SEP0050,19/01/2026,SP001,Sandal Beach,Outdoor,43.0,Wanita,Semarang,shopee,2,90000,Diskon 10%,qris,Dikembalikan,180000
+SEP0051,28/01/2026,SP006,Sandal Everyday,Comfort,42.0,Wanita,Solo,shopee,1,100000,Tidak Ada,transfer,Selesai,100000
+SEP0052,02/11/2026,SP009,Sandal Everyday,Comfort,44.0,pria,Sukoharjo,instagram,2,100000,Diskon 20%,qris,Dikembalikan,200000
+SEP0053,19/02/2026,SP002,Sandal Urban,Fashion,40.0,Perempuan,Jakarta,shopee,2,135000,Tidak Ada,E-Wallet,Selesai,270000
+SEP0054,16/05/2026,SP008,Sandal Flat,Fashion,42.0,Pria,Solo,instagram,2,105000,Diskon 10%,COD ,Dibatalkan,210000
+SEP0055,06/08/2026,SP011,Sandal Casual,Casual,39.0,pria,Klaten,Instagram,2,95000,Voucher,Transfer,Selesai,190000
+SEP0056,25/03/2026,SP012,Sandal Everyday,Comfort,39.0,Wanita,surakarta,TikTok,1,100000,Voucher,transfer,Dikembalikan,100000
+SEP0057,05/10/2026,SP011,Sandal Slide,Casual,40.0,pria,Solo,Shopee,2,110000,,COD ,Dikembalikan,220000
+SEP0058,23/05/2026,SP012,Sandal Slide,Casual,41.0,Laki-laki,surakarta,Instagram,2,110000,Tidak Ada,COD ,Selesai,220000
+SEP0059,21/04/2026,SP005,Sandal Travel,Outdoor,44.0,Wanita,Sukoharjo,Shopee,1,135000,Diskon 20%,COD,Selesai,135000
+SEP0060,18/01/2026,SP010,Sandal Premium,Premium,40.0,Laki-laki,Sukoharjo,Tokopedia,5,230000,,QRIS,Selesai,1150000
+SEP0061,06/06/2026,SP004,Sandal Comfort,Comfort,40.0,Wanita,Jakarta,Website,3,120000,,COD ,Dikembalikan,360000
+SEP0062,24/05/2026,SP012,Sandal Premium,Premium,41.0,wanita,Klaten,Tokopedia,3,225000,,COD,Dikembalikan,675000
+SEP0063,23/02/2026,SP002,Sandal Urban,Fashion,41.0,Pria,Karanganyar,shopee,1,145000,Tidak Ada,E-Wallet,Dikembalikan,145000
+SEP0064,14/03/2026,SP006,Sandal Kids,Kids,44.0,pria,Surakarta,Instagram,3,75000,Voucher,COD ,Selesai,225000
+SEP0065,03/01/2026,SP012,Sandal Travel,Outdoor,39.0,Perempuan,Yogyakarta,Instagram,2,140000,Tidak Ada,QRIS,Selesai,280000
+SEP0066,30/05/2026,SP002,Sandal Comfort,Comfort,44.0,Perempuan,Sukoharjo,TikTok,1,120000,Tidak Ada,COD,Selesai,120000
+SEP0067,27/02/2026,SP010,Sandal Premium,Premium,42.0,, SURAKARTA ,Shopee,2,235000,Voucher,QRIS,Dibatalkan,470000
+SEP0068,07/01/2026,SP006,Sandal Kids,Kids,39.0,Perempuan,Sukoharjo,shopee,4,75000,,transfer,Dikembalikan,300000
+SEP0069,19/02/2026,SP005,Sandal Urban,Fashion,44.0,Pria,Bandung,Tokopedia,1,145000,,qris,Dibatalkan,145000
+SEP0070,02/05/2026,SP005,Sandal Travel,Outdoor,41.0,Laki-laki, SURAKARTA ,Tokopedia,1,130000,Diskon 20%,Transfer,Selesai,130000
+SEP0071,13/05/2026,SP005,Sandal Premium,Premium,42.0,Wanita, yogyakarta ,Website,5,230000,,transfer,Selesai,1150000
+SEP0072,23/03/2026,SP003,Sandal Kids,Kids,40.0,Wanita,Jakarta,Instagram,1,75000,,COD,Selesai,75000
+SEP0073,06/12/2026,SP001,Sandal Flat,Fashion,41.0,Wanita,Jakarta,instagram,1,105000,,QRIS,Selesai,105000
+SEP0074,24/03/2026,SP011,Sandal Premium,Premium,43.0,Perempuan,Surakarta,Website,2,225000,Tidak Ada,Transfer,Selesai,450000
+SEP0075,30/05/2026,SP001,Sandal Urban,Fashion,38.0,Laki-laki,Karanganyar,Website,2,145000,,transfer,Dikembalikan,290000
+SEP0076,28/05/2026,SP001,Sandal Travel,Outdoor,41.0,wanita,Karanganyar,Shopee,2,135000,Voucher,transfer,Dikembalikan,270000
+SEP0077,25/02/2026,SP004,Sandal Kids,Kids,40.0,Perempuan,Solo,shopee,1,70000,,COD ,Selesai,70000
+SEP0078,24/05/2026,SP009,Sandal Kids,Kids,41.0,Perempuan,Jakarta,instagram,3,85000,,Transfer,Selesai,255000
+SEP0079,03/09/2026,SP008,Sandal Casual,Casual,43.0,Wanita,Yogyakarta,Website,2,90000,,QRIS,Selesai,180000
+SEP0080,28/04/2026,SP007,Sandal Urban,Fashion,43.0,wanita,Bandung,Tokopedia,1,150000,Diskon 20%,E-Wallet,Dibatalkan,150000
+SEP0081,14/02/2026,SP006,Sandal Outdoor,Outdoor,40.0,pria,Sukoharjo,instagram,2,180000,Voucher,E-Wallet,Selesai,360000
+SEP0082,30/05/2026,SP009,Sandal Sport,Sport,41.0,Pria,surakarta,Website,1,155000,,qris,Dikembalikan,155000
+SEP0083,16/04/2026,SP009,Sandal Casual,Casual,,wanita,Yogyakarta,Tokopedia,2,95000,,QRIS,Dibatalkan,190000
+SEP0084,04/10/2026,SP008,Sandal Everyday,Comfort,41.0,pria,Bandung,Tokopedia,2,100000,Diskon 10%,COD ,Selesai,200000
+SEP0085,04/08/2026,SP002,Sandal Kids,Kids,44.0,Laki-laki,Semarang,Shopee,3,80000,,qris,Selesai,240000
+SEP0086,14/04/2026,SP003,Sandal Beach,Outdoor,40.0,Wanita,Semarang,Shopee,2,90000,,qris,Dikembalikan,180000
+SEP0087,31/03/2026,SP005,Sandal Comfort,Comfort,40.0,Perempuan,Surakarta,instagram,1,125000,,E-Wallet,Dibatalkan,125000
+SEP0088,01/04/2026,SP007,Sandal Everyday,Comfort,39.0,Pria,Sukoharjo,Shopee,1,100000,Tidak Ada,E-Wallet,Selesai,100000
+SEP0089,06/03/2026,SP009,Sandal Urban,Fashion,38.0,Perempuan,Jakarta, TikTok ,1,150000,Diskon 20%,COD,Selesai,150000
+SEP0090,05/04/2026,SP010,Sandal Premium,Premium,41.0,Laki-laki,Jakarta,Shopee,2,230000,Diskon 10%,transfer,Selesai,460000
+SEP0091,27/04/2026,SP004,Sandal Travel,Outdoor,40.0,Perempuan, SURAKARTA ,TikTok,2,135000,Diskon 20%,COD ,Dikembalikan,270000
+SEP0092,27/03/2026,SP010,Sandal Sport,Sport,43.0,Laki-laki,Karanganyar,Shopee,3,150000,,COD ,Dibatalkan,450000
+SEP0093,17/01/2026,SP010,Sandal Travel,Outdoor,41.0,wanita, SURAKARTA ,shopee,5,135000,Diskon 20%,Transfer,Selesai,675000
+SEP0094,14/02/2026,SP012,Sandal Outdoor,Outdoor,44.0,Wanita,Bandung,Shopee,3,185000,Voucher,COD ,Selesai,555000
+SEP0095,05/04/2026,SP007,Sandal Comfort,Comfort,44.0,wanita,Bandung,instagram,1,120000,Diskon 10%,transfer,Selesai,120000
+SEP0096,13/05/2026,SP005,Sandal Beach,Outdoor,39.0,Wanita,Klaten,Shopee,3,90000,,transfer,Dikembalikan,270000
+SEP0097,31/01/2026,SP007,Sandal Everyday,Comfort,39.0,Wanita,Klaten,shopee,1,110000,Tidak Ada, QRIS ,Dibatalkan,110000
+SEP0098,07/01/2026,SP005,Sandal Travel,Outdoor,41.0,Wanita,Semarang,Shopee,1,145000,Voucher,qris,Dibatalkan,145000
+SEP0099,29/05/2026,SP011,Sandal Beach,Outdoor,43.0,Laki-laki, SURAKARTA ,TikTok,5,85000,,COD ,Dibatalkan,425000
+SEP0100,15/02/2026,SP002,Sandal Travel,Outdoor,43.0,Laki-laki, SURAKARTA ,Tokopedia,1,135000,Diskon 20%,QRIS,Selesai,135000
+SEP0101,17/05/2026,SP005,Sandal Everyday,Comfort,44.0,wanita,Solo,Tokopedia,1,115000,,qris,Dikembalikan,115000
+SEP0102,20/06/2026,SP010,Sandal Kids,Kids,39.0,pria,Bandung,Website,1,85000,Diskon 10%,COD,Selesai,85000
+SEP0103,27/03/2026,SP004,Sandal Flat,Fashion,42.0,Wanita,Solo,Website,1,95000,,Transfer,Selesai,95000
+SEP0104,29/06/2026,SP006,Sandal Kids,Kids,42.0,pria,Jakarta,Tokopedia,2,85000,,COD,Selesai,170000
+SEP0105,06/01/2026,SP008,Sandal Premium,Premium,40.0,Pria, SURAKARTA ,Shopee,1,220000,Voucher,COD ,Selesai,220000
+SEP0106,30/04/2026,SP004,Sandal Beach,Outdoor,40.0,wanita,Sukoharjo,instagram,1,100000,Tidak Ada,E-Wallet,Selesai,100000
+SEP0107,18/03/2026,SP003,Sandal Flat,Fashion,42.0,pria,Yogyakarta,Website,1,95000,Voucher,transfer,Dibatalkan,95000
+SEP0108,04/01/2026,SP008,Sandal Kids,Kids,44.0,pria,Bandung,Tokopedia,2,75000,Voucher,qris,Selesai,150000
+SEP0109,01/09/2026,SP011,Sandal Beach,Outdoor,39.0,pria,Sukoharjo,shopee,3,100000,,COD ,Dikembalikan,300000
+SEP0110,30/03/2026,SP007,Sandal Kids,Kids,43.0,pria,Klaten,Shopee,2,70000,Tidak Ada,COD ,Dikembalikan,140000
+SEP0111,30/05/2026,SP012,Sandal Everyday,Comfort,40.0,Laki-laki,surakarta,shopee,4,115000,Diskon 20%,COD,Selesai,460000
+SEP0112,16/03/2026,SP009,Sandal Travel,Outdoor,39.0,pria,Sukoharjo,Tokopedia,1,135000,,transfer,Dibatalkan,135000
+SEP0113,15/05/2026,SP006,Sandal Premium,Premium,41.0,pria,Klaten,TikTok,1,230000,Diskon 20%,COD,Selesai,230000
+SEP0114,01/12/2026,SP010,Sandal Premium,Premium,44.0,Pria,Yogyakarta,TikTok,1,230000,Diskon 20%,COD ,Selesai,230000
+SEP0115,29/03/2026,SP006,Sandal Outdoor,Outdoor,41.0,Wanita,Semarang,Website,1,170000,Diskon 20%,E-Wallet,Dikembalikan,170000
+SEP0116,11/04/2026,SP006,Sandal Flat,Fashion,44.0,Perempuan,Bandung,Shopee,4,90000,Tidak Ada,COD ,Dibatalkan,360000
+SEP0117,14/02/2026,SP011,Sandal Flat,Fashion,38.0,pria,Bandung,shopee,1,100000,,transfer,Selesai,100000
+SEP0118,29/06/2026,SP009,Sandal Casual,Casual,41.0,Perempuan,Yogyakarta,Instagram,5,90000,Diskon 20%,COD ,Selesai,450000
+SEP0119,05/04/2026,SP003,Sandal Casual,Casual,39.0,Perempuan,Jakarta,shopee,3,80000,,QRIS,Selesai,240000
+SEP0120,30/03/2026,SP002,Sandal Sport,Sport,43.0,pria,Karanganyar,Website,1,150000,,Transfer,Selesai,150000
+SEP0121,22/01/2026,SP011,Sandal Beach,Outdoor,41.0,pria, SURAKARTA ,instagram,3,90000,Diskon 10%,transfer,Selesai,270000
+SEP0122,31/05/2026,SP012,Sandal Urban,Fashion,42.0,wanita,Karanganyar,Instagram,1,135000,Diskon 10%,COD ,Selesai,135000
+SEP0123,04/07/2026,SP004,Sandal Travel,Outdoor,44.0,wanita,Bandung,Tokopedia,1,135000,Diskon 10%,QRIS,Dibatalkan,135000
+SEP0124,19/03/2026,SP006,Sandal Kids,Kids,40.0,Pria, SURAKARTA ,Tokopedia,2,75000,Voucher,E-Wallet,Dibatalkan,150000
+SEP0125,19/05/2026,SP001,Sandal Travel,Outdoor,39.0,wanita,surakarta,instagram,1,145000,,QRIS,Selesai,145000
+SEP0126,28/04/2026,SP006,Sandal Slide,Casual,44.0,Wanita,Jakarta,Website,3,110000,Diskon 10%,Transfer,Dibatalkan,330000
+SEP0127,05/12/2026,SP002,Sandal Outdoor,Outdoor,39.0,Wanita,Solo,Website,3,175000,Diskon 10%,QRIS,Dikembalikan,525000
+SEP0128,04/11/2026,SP010,Sandal Flat,Fashion,42.0,Laki-laki, SURAKARTA ,TikTok,1,90000,,COD,Selesai,90000
+SEP0129,25/02/2026,SP009,Sandal Everyday,Comfort,41.0,Laki-laki, SURAKARTA ,shopee,2,105000,Diskon 20%,qris,Dikembalikan,210000
+SEP0130,02/08/2026,SP001,Sandal Travel,Outdoor,42.0,Laki-laki,Solo,Website,3,135000,Diskon 20%,COD,Dikembalikan,405000
+SEP0131,17/01/2026,SP008,Sandal Travel,Outdoor,39.0,wanita,Solo,Website,1,130000,Diskon 10%,COD ,Selesai,130000
+SEP0132,28/01/2026,SP009,Sandal Kids,Kids,38.0,Perempuan,Bandung,Tokopedia,1,75000,Diskon 10%,COD,Selesai,75000
+SEP0133,04/08/2026,SP012,Sandal Travel,Outdoor,40.0,Laki-laki,Yogyakarta,Shopee,1,145000,Diskon 10%,COD ,Dikembalikan,145000
+SEP0134,20/02/2026,SP012,Sandal Premium,Premium,39.0,,Jakarta,instagram,1,220000,Tidak Ada,COD ,Dibatalkan,220000
+SEP0135,04/04/2026,SP003,Sandal Kids,Kids,42.0,Pria,surakarta,shopee,2,80000,Tidak Ada,QRIS,Selesai,160000
+SEP0136,25/06/2026,SP005,Sandal Beach,Outdoor,42.0,wanita,Surakarta,Website,1,100000,Tidak Ada,qris,Selesai,100000
+SEP0137,13/05/2026,SP005,Sandal Casual,Casual,42.0,Laki-laki,Surakarta,instagram,1,80000,Tidak Ada,Transfer,Selesai,80000
+SEP0138,29/04/2026,SP012,Sandal Flat,Fashion,43.0,Pria,surakarta,shopee,1,95000,Tidak Ada,qris,Dibatalkan,95000
+SEP0139,06/10/2026,SP007,Sandal Slide,Casual,39.0,Perempuan,Jakarta,Tokopedia,1,115000,,COD ,Dikembalikan,115000
+SEP0140,17/06/2026,SP002,Sandal Travel,Outdoor,42.0,pria,Klaten,Shopee,1,145000,Tidak Ada,qris,Selesai,145000
+SEP0141,17/05/2026,SP009,Sandal Comfort,Comfort,40.0,wanita,surakarta,TikTok,2,115000,,COD ,Selesai,230000
+SEP0142,05/06/2026,SP003,Sandal Travel,Outdoor,38.0,wanita, yogyakarta ,Instagram,4,135000,,E-Wallet,Dibatalkan,540000
+SEP0143,28/04/2026,SP001,Sandal Everyday,Comfort,41.0,Wanita,Jakarta,TikTok,2,110000,Diskon 10%,qris,Dikembalikan,220000
+SEP0144,26/03/2026,SP002,Sandal Everyday,Comfort,42.0,pria,Bandung,Shopee,2,100000,Tidak Ada,transfer,Dibatalkan,200000
+SEP0145,01/03/2026,SP009,Sandal Kids,Kids,40.0,pria,Semarang,shopee,2,75000,Diskon 10%,E-Wallet,Selesai,150000
+SEP0146,16/06/2026,SP006,Sandal Flat,Fashion,44.0,Wanita, SURAKARTA ,Website,2,90000,,COD ,Dibatalkan,180000
+SEP0147,30/04/2026,SP011,Sandal Travel,Outdoor,42.0,pria,Semarang,TikTok,1,135000,,COD,Dibatalkan,135000
+SEP0148,13/05/2026,SP004,Sandal Sport,Sport,42.0,Pria,Bandung,Website,1,145000,Voucher,qris,Dikembalikan,145000
+SEP0149,04/05/2026,SP007,Sandal Premium,Premium,40.0,Pria,Jakarta,Tokopedia,1,225000,Diskon 10%,transfer,Selesai,225000
+SEP0150,01/11/2026,SP005,Sandal Everyday,Comfort,40.0,pria,Semarang,instagram,2,105000,,E-Wallet,Selesai,210000
+SEP0151,19/05/2026,SP002,Sandal Travel,Outdoor,38.0,Pria,surakarta,Instagram,2,130000,Diskon 20%,COD ,Dikembalikan,260000
+SEP0152,01/07/2026,SP001,Sandal Comfort,Comfort,38.0,Perempuan, SURAKARTA ,Instagram,2,120000,Voucher,COD ,Selesai,240000
+SEP0153,13/06/2026,SP004,Sandal Beach,Outdoor,38.0,Wanita,Jakarta,TikTok,4,100000,Diskon 20%,qris,Dikembalikan,400000
+SEP0154,24/04/2026,SP007,Sandal Flat,Fashion,40.0,pria,Bandung,instagram,2,90000,Diskon 10%,QRIS,Selesai,180000
+SEP0155,02/02/2026,SP010,Sandal Travel,Outdoor,40.0,Perempuan,Klaten,Website,2,140000,,E-Wallet,Selesai,280000
+SEP0156,01/09/2026,SP004,Sandal Slide,Casual,38.0,wanita,Bandung,TikTok,3,110000,,transfer,Dibatalkan,330000
+SEP0157,31/05/2026,SP011,Sandal Comfort,Comfort,38.0,Perempuan,Jakarta,TikTok,2,115000,Diskon 10%,E-Wallet,Selesai,230000
+SEP0158,25/06/2026,SP011,Sandal Outdoor,Outdoor,43.0,pria,Surakarta,TikTok,2,185000,Diskon 20%,COD ,Dikembalikan,370000
+SEP0159,26/05/2026,SP010,Sandal Everyday,Comfort,44.0,Laki-laki,Klaten,TikTok,2,105000,,Transfer,Selesai,210000
+SEP0160,14/03/2026,SP004,Sandal Premium,Premium,44.0,pria,Klaten,shopee,1,235000,Diskon 10%,transfer,Selesai,235000
+SEP0161,13/01/2026,SP004,Sandal Sport,Sport,38.0,Laki-laki, SURAKARTA ,shopee,2,160000,Diskon 20%,qris,Selesai,320000
+SEP0162,30/03/2026,SP010,Sandal Travel,Outdoor,44.0,Laki-laki,Solo,Website,1,145000,Voucher,E-Wallet,Selesai,145000
+SEP0163,06/08/2026,SP009,Sandal Casual,Casual,38.0,pria,Klaten,Shopee,1,95000,,Transfer,Selesai,95000
+SEP0164,01/11/2026,SP004,Sandal Comfort,Comfort,41.0,Laki-laki,Surakarta,Website,2,120000,Diskon 10%,COD,Dibatalkan,240000
+SEP0165,16/06/2026,SP010,Sandal Casual,Casual,40.0,Perempuan,Jakarta,TikTok,3,90000,,Transfer,Selesai,270000
+SEP0166,26/05/2026,SP005,Sandal Travel,Outdoor,,Laki-laki,Bandung,TikTok,2,130000,Voucher,COD ,Dikembalikan,260000
+SEP0167,24/02/2026,SP005,Sandal Urban,Fashion,38.0,Pria,Karanganyar,TikTok,2,150000,Diskon 10%,COD ,Selesai,300000
+SEP0168,18/06/2026,SP007,Sandal Kids,Kids,42.0,Pria,Karanganyar,Instagram,2,75000,Diskon 20%,E-Wallet,Dikembalikan,150000
+SEP0169,01/11/2026,SP008,Sandal Comfort,Comfort,41.0,Laki-laki,Bandung,TikTok,1,120000,,E-Wallet,Selesai,120000
+SEP0170,04/09/2026,SP011,Sandal Urban,Fashion,41.0,Pria,Solo,Shopee,2,150000,Voucher,transfer,Selesai,300000
+SEP0171,04/12/2026,SP006,Sandal Outdoor,Outdoor,41.0,pria,Karanganyar,Website,1,180000,Tidak Ada,QRIS,Dikembalikan,180000
+SEP0172,21/01/2026,SP006,Sandal Outdoor,Outdoor,39.0,pria,Jakarta,Shopee,1,180000,Diskon 20%,qris,Selesai,180000
+SEP0173,26/03/2026,SP008,Sandal Comfort,Comfort,39.0,Laki-laki,Jakarta,Tokopedia,3,115000,,transfer,Dikembalikan,345000
+SEP0174,24/04/2026,SP003,Sandal Urban,Fashion,42.0,Pria,Semarang,instagram,4,140000,Voucher,E-Wallet,Selesai,560000
+SEP0175,13/01/2026,SP005,Sandal Casual,Casual,44.0,Perempuan,surakarta,Website,2,80000,Tidak Ada,COD,Selesai,160000
+SEP0176,02/09/2026,SP011,Sandal Kids,Kids,41.0,Perempuan,Karanganyar,shopee,3,70000,Voucher,COD ,Selesai,210000
+SEP0177,29/03/2026,SP012,Sandal Flat,Fashion,41.0,Perempuan,Karanganyar,shopee,1,100000,Voucher,qris,Dibatalkan,100000
+SEP0178,23/03/2026,SP005,Sandal Beach,Outdoor,38.0,pria,surakarta, TikTok ,2,95000,Diskon 10%,transfer,Selesai,190000
+SEP0179,24/03/2026,SP007,Sandal Beach,Outdoor,41.0,Pria,Solo,instagram,1,100000,Diskon 10%,Transfer,Dibatalkan,100000
+SEP0180,01/06/2026,SP004,Sandal Slide,Casual,38.0,Wanita,Sukoharjo,shopee,2,105000,Tidak Ada,COD ,Selesai,210000
+SEP0181,19/06/2026,SP008,Sandal Sport,Sport,38.0,Perempuan,surakarta,Instagram,2,155000,Tidak Ada,QRIS,Selesai,310000
+SEP0182,03/05/2026,SP006,Sandal Casual,Casual,38.0,wanita,Surakarta,Website,1,95000,Voucher,qris,Dibatalkan,95000
+SEP0183,16/03/2026,SP005,Sandal Slide,Casual,41.0,pria,Karanganyar,Shopee,1,110000,,E-Wallet,Selesai,110000
+SEP0184,05/12/2026,SP005,Sandal Beach,Outdoor,43.0,wanita,Semarang,Instagram,1,90000,Diskon 10%,transfer,Selesai,90000
+SEP0185,03/04/2026,SP003,Sandal Urban,Fashion,44.0,Perempuan,Solo,shopee,1,140000,,QRIS,Selesai,140000
+SEP0186,25/05/2026,SP011,Sandal Urban,Fashion,39.0,Laki-laki,Karanganyar,Instagram,3,140000,,transfer,Selesai,420000
+SEP0187,06/02/2026,SP011,Sandal Travel,Outdoor,40.0,Wanita, SURAKARTA ,Shopee,3,145000,Tidak Ada,transfer,Selesai,435000
+SEP0188,02/11/2026,SP006,Sandal Everyday,Comfort,42.0,Laki-laki,surakarta,instagram,1,105000,,COD,Selesai,105000
+SEP0189,03/03/2026,SP002,Sandal Everyday,Comfort,38.0,wanita,Karanganyar,TikTok,2,115000,Voucher,COD,Dikembalikan,230000
+SEP0190,23/03/2026,SP007,Sandal Sport,Sport,43.0,Wanita, SURAKARTA ,Shopee,2,150000,Voucher,Transfer,Selesai,300000
+SEP0191,02/06/2026,SP012,Sandal Kids,Kids,44.0,Laki-laki,Sukoharjo,Instagram,1,80000,Diskon 10%,COD,Dibatalkan,80000
+SEP0192,03/03/2026,SP001,Sandal Outdoor,Outdoor,44.0,Wanita,Sukoharjo,Shopee,4,175000,Tidak Ada,QRIS,Selesai,700000
+SEP0193,02/01/2026,SP001,Sandal Travel,Outdoor,39.0,wanita,Klaten,TikTok,2,135000,Tidak Ada,COD ,Dikembalikan,270000
+SEP0194,06/11/2026,SP007,Sandal Urban,Fashion,39.0,Wanita,Semarang,Shopee,1,145000,Tidak Ada, QRIS ,Dibatalkan,145000
+SEP0195,06/09/2026,SP006,Sandal Sport,Sport,42.0,Perempuan,Karanganyar,Shopee,1,145000,,COD,Dikembalikan,145000
+SEP0196,14/04/2026,SP010,Sandal Urban,Fashion,39.0,Laki-laki,surakarta,instagram,1,135000,Tidak Ada,QRIS,Selesai,135000
+SEP0197,13/01/2026,SP006,Sandal Everyday,Comfort,41.0,wanita,Sukoharjo,instagram,1,105000,Tidak Ada,qris,Selesai,105000
+SEP0198,05/12/2026,SP001,Sandal Kids,Kids,40.0,wanita,Bandung,Website,1,70000,Voucher,qris,Selesai,70000
+SEP0199,01/10/2026,SP009,Sandal Flat,Fashion,43.0,Laki-laki,Solo,Tokopedia,2,95000,,COD ,Dikembalikan,190000
+SEP0200,02/04/2026,SP001,Sandal Comfort,Comfort,44.0,Wanita,Karanganyar,TikTok,1,130000,Voucher,COD ,Dikembalikan,130000
+SEP0201,21/01/2026,SP011,Sandal Premium,Premium,41.0,,Surakarta,Instagram,1,235000,Tidak Ada,COD ,Selesai,235000
+SEP0202,19/03/2026,SP002,Sandal Beach,Outdoor,42.0,Laki-laki,Karanganyar,shopee,4,90000,Diskon 10%,COD ,Selesai,360000
+SEP0203,28/03/2026,SP003,Sandal Sport,Sport,40.0,Perempuan,Karanganyar,TikTok,1,155000,Diskon 10%,Transfer,Dibatalkan,155000
+SEP0204,06/10/2026,SP009,Sandal Sport,Sport,38.0,Laki-laki,Yogyakarta,Website,2,150000,,transfer,Dikembalikan,300000
+SEP0205,14/04/2026,SP007,Sandal Urban,Fashion,39.0,Pria,Sukoharjo,TikTok,3,140000,,COD,Selesai,420000
+SEP0206,31/01/2026,SP007,Sandal Flat,Fashion,39.0,wanita,Klaten,instagram,3,95000,,QRIS,Selesai,285000
+SEP0207,20/01/2026,SP006,Sandal Kids,Kids,42.0,pria,Karanganyar,Tokopedia,4,80000,Diskon 10%,E-Wallet,Selesai,320000
+SEP0208,06/11/2026,SP012,Sandal Premium,Premium,43.0,Pria,Yogyakarta,Website,2,235000,,transfer,Dikembalikan,470000
+SEP0209,06/04/2026,SP011,Sandal Premium,Premium,38.0,wanita,Yogyakarta,Shopee,2,220000,Diskon 10%,transfer,Selesai,440000
+SEP0210,03/03/2026,SP010,Sandal Sport,Sport,40.0,Perempuan,Karanganyar,Instagram,1,150000,Tidak Ada,E-Wallet,Selesai,150000
+SEP0211,24/05/2026,SP008,Sandal Kids,Kids,44.0,Wanita,Klaten,shopee,1,70000,Voucher,QRIS,Selesai,70000
+SEP0212,05/08/2026,SP009,Sandal Outdoor,Outdoor,42.0,wanita,Yogyakarta,shopee,3,180000,Diskon 10%,Transfer,Dibatalkan,540000
+SEP0213,30/04/2026,SP012,Sandal Premium,Premium,38.0,Perempuan, yogyakarta ,Instagram,1,220000,Tidak Ada,QRIS,Selesai,220000
+SEP0214,01/10/2026,SP004,Sandal Casual,Casual,40.0,Perempuan,Solo,Website,1,90000,Diskon 10%,Transfer,Selesai,90000
+SEP0215,06/07/2026,SP010,Sandal Comfort,Comfort,41.0,Wanita,Klaten,instagram,5,125000,Tidak Ada,COD,Dibatalkan,625000
+SEP0216,25/01/2026,SP010,Sandal Premium,Premium,38.0,Perempuan,Semarang,TikTok,2,235000,,transfer,Selesai,470000
+SEP0217,18/05/2026,SP010,Sandal Comfort,Comfort,43.0,Pria,Solo,instagram,3,120000,Voucher,transfer,Selesai,360000
+SEP0218,04/02/2026,SP012,Sandal Casual,Casual,38.0,Perempuan,Jakarta,Instagram,1,95000,Diskon 10%,transfer,Selesai,95000
+SEP0219,16/02/2026,SP008,Sandal Slide,Casual,44.0,pria,Karanganyar,TikTok,1,110000,Diskon 20%,Transfer,Selesai,110000
+SEP0220,01/05/2026,SP004,Sandal Beach,Outdoor,42.0,Laki-laki,Sukoharjo,shopee,3,85000,Diskon 20%,QRIS,Dibatalkan,255000
+SEP0221,20/01/2026,SP011,Sandal Slide,Casual,38.0,Laki-laki,Semarang,TikTok,4,120000,Diskon 20%,COD ,Dikembalikan,480000
+SEP0222,07/01/2026,SP007,Sandal Casual,Casual,38.0,Laki-laki,Yogyakarta,instagram,1,80000,Diskon 20%,qris,Selesai,80000
+SEP0223,21/03/2026,SP002,Sandal Casual,Casual,41.0,Perempuan,Yogyakarta,TikTok,2,85000,,E-Wallet,Selesai,170000
+SEP0224,15/03/2026,SP006,Sandal Kids,Kids,44.0,Pria,Semarang,Instagram,1,75000,Tidak Ada,COD ,Selesai,75000
+SEP0225,13/04/2026,SP004,Sandal Travel,Outdoor,44.0,Wanita,Klaten,instagram,5,130000,Diskon 10%,Transfer,Selesai,650000
+SEP0226,18/05/2026,SP011,Sandal Slide,Casual,43.0,wanita, SURAKARTA ,instagram,5,115000,,E-Wallet,Dibatalkan,575000
+SEP0227,20/02/2026,SP008,Sandal Beach,Outdoor,43.0,Laki-laki,Yogyakarta,Tokopedia,3,90000,,qris,Dikembalikan,270000
+SEP0228,05/12/2026,SP004,Sandal Flat,Fashion,42.0,wanita,Karanganyar,Tokopedia,3,95000,Tidak Ada,COD ,Selesai,285000
+SEP0229,31/03/2026,SP003,Sandal Travel,Outdoor,39.0,Wanita, SURAKARTA ,instagram,2,145000,Diskon 20%,transfer,Dikembalikan,290000
+SEP0230,03/04/2026,SP010,Sandal Slide,Casual,41.0,pria, SURAKARTA ,shopee,4,120000,Diskon 10%,qris,Selesai,480000
+SEP0231,22/01/2026,SP007,Sandal Comfort,Comfort,39.0,Perempuan,Solo,TikTok,4,130000,,qris,Selesai,520000
+SEP0232,24/06/2026,SP003,Sandal Travel,Outdoor,44.0,wanita,Solo,Tokopedia,2,135000,Diskon 20%,QRIS,Selesai,270000
+SEP0233,14/01/2026,SP001,Sandal Travel,Outdoor,41.0,wanita,Yogyakarta,Website,1,135000,,QRIS,Selesai,135000
+SEP0234,14/03/2026,SP006,Sandal Urban,Fashion,41.0,Wanita,Bandung,Tokopedia,2,150000,Diskon 20%,COD,Selesai,300000
+SEP0235,25/01/2026,SP005,Sandal Urban,Fashion,40.0,Wanita,Klaten,TikTok,2,135000,,transfer,Selesai,270000
+SEP0236,19/04/2026,SP002,Sandal Sport,Sport,43.0,Perempuan, SURAKARTA ,Shopee,2,145000,Diskon 10%,Transfer,Dibatalkan,290000
+SEP0237,24/01/2026,SP007,Sandal Sport,Sport,42.0,wanita,Semarang,TikTok,2,150000,,COD,Dikembalikan,300000
+SEP0238,06/02/2026,SP008,Sandal Urban,Fashion,41.0,Wanita,Semarang,instagram,2,140000,,QRIS,Dibatalkan,280000
+SEP0239,06/02/2026,SP007,Sandal Kids,Kids,43.0,pria,Bandung,Website,2,80000,Tidak Ada,Transfer,Selesai,160000
+SEP0240,07/01/2026,SP001,Sandal Outdoor,Outdoor,42.0,Wanita,Semarang,TikTok,3,185000,Diskon 10%,Transfer,Selesai,555000
+SEP0241,27/05/2026,SP011,Sandal Premium,Premium,42.0,Wanita,Klaten,TikTok,2,220000,Diskon 10%,QRIS,Selesai,440000
+SEP0242,03/09/2026,SP002,Sandal Urban,Fashion,44.0,pria,Surakarta,Tokopedia,2,140000,Diskon 20%,COD ,Selesai,280000
+SEP0243,16/04/2026,SP010,Sandal Slide,Casual,44.0,Perempuan,Bandung,Instagram,1,115000,,transfer,Selesai,115000
+SEP0244,01/11/2026,SP007,Sandal Travel,Outdoor,40.0,pria,Bandung,Instagram,3,135000,,qris,Dibatalkan,405000
+SEP0245,30/01/2026,SP011,Sandal Urban,Fashion,40.0,Laki-laki,Solo,Instagram,2,150000,Voucher,Transfer,Dibatalkan,300000
+SEP0246,27/01/2026,SP011,Sandal Outdoor,Outdoor,39.0,Wanita,Sukoharjo,TikTok,2,185000,,Transfer,Selesai,370000
+SEP0247,13/01/2026,SP001,Sandal Beach,Outdoor,43.0,Pria,Bandung,instagram,1,95000,Diskon 20%,qris,Selesai,95000
+SEP0248,03/03/2026,SP008,Sandal Everyday,Comfort,41.0,Laki-laki,Klaten,shopee,1,100000,,QRIS,Selesai,100000
+SEP0249,02/11/2026,SP011,Sandal Comfort,Comfort,,Pria,Klaten,TikTok,3,115000,Tidak Ada,COD ,Dikembalikan,345000
+SEP0250,23/02/2026,SP004,Sandal Kids,Kids,42.0,wanita,Semarang,Tokopedia,1,75000,Diskon 10%,transfer,Dikembalikan,75000
+SEP0251,04/12/2026,SP012,Sandal Premium,Premium,39.0,Pria, SURAKARTA ,shopee,1,220000,Voucher,COD ,Dikembalikan,220000
+SEP0252,04/11/2026,SP010,Sandal Casual,Casual,38.0,Wanita,Klaten,Tokopedia,3,95000,Voucher,COD ,Selesai,285000
+SEP0253,04/06/2026,SP006,Sandal Outdoor,Outdoor,43.0,Pria, SURAKARTA ,shopee,5,185000,Tidak Ada,QRIS,Dikembalikan,925000
+SEP0254,27/04/2026,SP008,Sandal Beach,Outdoor,43.0,Perempuan,Semarang,Website,2,90000,Voucher,Transfer,Dibatalkan,180000
+SEP0255,01/12/2026,SP003,Sandal Sport,Sport,41.0,Laki-laki,Solo,Tokopedia,2,150000,,qris,Dikembalikan,300000
+SEP0256,06/05/2026,SP002,Sandal Casual,Casual,40.0,Perempuan,surakarta,Website,2,90000,Voucher,E-Wallet,Selesai,180000
+SEP0257,01/04/2026,SP007,Sandal Beach,Outdoor,44.0,Wanita,Solo,instagram,1,90000,Tidak Ada,transfer,Selesai,90000
+SEP0258,19/04/2026,SP006,Sandal Kids,Kids,43.0,Pria,Bandung,Shopee,1,70000,Voucher,qris,Dibatalkan,70000
+SEP0259,05/02/2026,SP001,Sandal Casual,Casual,41.0,Laki-laki,Karanganyar,shopee,2,90000,Diskon 10%,QRIS,Selesai,180000
+SEP0260,02/05/2026,SP006,Sandal Travel,Outdoor,40.0,Wanita, SURAKARTA ,instagram,1,145000,,COD,Dikembalikan,145000
+SEP0261,13/06/2026,SP006,Sandal Beach,Outdoor,44.0,pria,Semarang,Instagram,2,90000,Tidak Ada,Transfer,Selesai,180000
+SEP0262,03/11/2026,SP002,Sandal Outdoor,Outdoor,38.0,Perempuan,Semarang,Tokopedia,2,175000,,COD ,Selesai,350000
+SEP0263,03/09/2026,SP009,Sandal Travel,Outdoor,44.0,Perempuan,Surakarta,shopee,4,140000,Diskon 20%,qris,Dibatalkan,560000
+SEP0264,04/03/2026,SP012,Sandal Everyday,Comfort,44.0,Laki-laki,surakarta,shopee,2,100000,Diskon 10%,Transfer,Dibatalkan,200000
+SEP0265,02/02/2026,SP007,Sandal Beach,Outdoor,39.0,wanita,Karanganyar,Shopee,4,95000,Diskon 10%,COD,Selesai,380000
+SEP0266,19/04/2026,SP010,Sandal Casual,Casual,38.0,Pria,Solo,instagram,1,95000,,transfer,Dikembalikan,95000
+SEP0267,06/09/2026,SP001,Sandal Sport,Sport,40.0,Laki-laki,Solo, TikTok ,2,145000,,transfer,Selesai,290000
+SEP0268,03/09/2026,SP007,Sandal Beach,Outdoor,44.0,, SURAKARTA ,Website,3,85000,Tidak Ada,transfer,Dibatalkan,255000
+SEP0269,04/10/2026,SP011,Sandal Kids,Kids,44.0,Perempuan,Jakarta,shopee,1,75000,Tidak Ada,Transfer,Dibatalkan,75000
+SEP0270,14/02/2026,SP003,Sandal Outdoor,Outdoor,43.0,wanita, SURAKARTA ,TikTok,2,175000,,COD ,Selesai,350000
+SEP0271,17/06/2026,SP003,Sandal Kids,Kids,43.0,Pria,Karanganyar,Shopee,3,80000,Diskon 20%,COD,Selesai,240000
+SEP0272,02/01/2026,SP003,Sandal Sport,Sport,38.0,pria,Bandung,shopee,4,145000,Voucher,E-Wallet,Selesai,580000
+SEP0273,03/06/2026,SP002,Sandal Sport,Sport,42.0,Wanita,Surakarta,Instagram,1,155000,Tidak Ada,Transfer,Selesai,155000
+SEP0274,17/01/2026,SP009,Sandal Beach,Outdoor,43.0,Laki-laki,Surakarta,shopee,1,90000,Voucher,E-Wallet,Dibatalkan,90000
+SEP0275,03/11/2026,SP007,Sandal Sport,Sport,44.0,Laki-laki,Yogyakarta,Shopee,1,155000,,qris,Selesai,155000
+SEP0276,30/04/2026,SP004,Sandal Premium,Premium,43.0,pria, SURAKARTA ,TikTok,1,230000,Diskon 10%,COD ,Selesai,230000
+SEP0277,25/02/2026,SP009,Sandal Flat,Fashion,41.0,Pria, SURAKARTA ,Instagram,1,95000,Tidak Ada,qris,Selesai,95000
+SEP0278,26/02/2026,SP009,Sandal Premium,Premium,44.0,Perempuan,Solo,Website,1,225000,,Transfer,Selesai,225000
+SEP0279,15/04/2026,SP008,Sandal Kids,Kids,43.0,pria,Yogyakarta,Website,2,80000,Diskon 20%,COD ,Selesai,160000
+SEP0280,21/04/2026,SP005,Sandal Premium,Premium,44.0,Laki-laki,Solo,Shopee,1,235000,,qris,Selesai,235000
+SEP0281,06/02/2026,SP004,Sandal Comfort,Comfort,41.0,Laki-laki,Jakarta,shopee,5,125000,,Transfer,Selesai,625000
+SEP0282,16/05/2026,SP009,Sandal Premium,Premium,41.0,Pria,Jakarta,instagram,1,230000,Tidak Ada,QRIS,Dibatalkan,230000
+SEP0283,13/02/2026,SP009,Sandal Flat,Fashion,39.0,Pria,Surakarta,instagram,1,95000,Voucher,Transfer,Dikembalikan,95000
+SEP0284,06/08/2026,SP003,Sandal Sport,Sport,40.0,wanita, yogyakarta ,Shopee,2,150000,Voucher,QRIS,Selesai,300000
+SEP0285,27/03/2026,SP007,Sandal Slide,Casual,42.0,Perempuan,Jakarta,Tokopedia,1,110000,Diskon 10%,QRIS,Selesai,110000
+SEP0286,28/03/2026,SP007,Sandal Sport,Sport,43.0,Wanita,Klaten,shopee,5,145000,Diskon 10%,QRIS,Selesai,725000
+SEP0287,26/03/2026,SP006,Sandal Flat,Fashion,38.0,Laki-laki,Yogyakarta,Shopee,1,105000,,E-Wallet,Dibatalkan,105000
+SEP0288,14/03/2026,SP002,Sandal Travel,Outdoor,42.0,Laki-laki,Jakarta,shopee,1,145000,,COD ,Dikembalikan,145000
+SEP0289,25/02/2026,SP001,Sandal Travel,Outdoor,41.0,Perempuan,Yogyakarta,Website,2,130000,,COD,Dibatalkan,260000
+SEP0290,22/02/2026,SP003,Sandal Premium,Premium,42.0,pria,Karanganyar,Tokopedia,2,225000,Diskon 10%,transfer,Selesai,450000
+SEP0291,14/03/2026,SP001,Sandal Flat,Fashion,43.0,Laki-laki,Bandung,TikTok,1,95000,Voucher, QRIS ,Selesai,95000
+SEP0292,23/02/2026,SP010,Sandal Travel,Outdoor,41.0,Wanita,Surakarta,Website,2,135000,,Transfer,Selesai,270000
+SEP0293,26/04/2026,SP004,Sandal Sport,Sport,41.0,pria,surakarta,Instagram,1,155000,,QRIS,Selesai,155000
+SEP0294,20/05/2026,SP002,Sandal Slide,Casual,39.0,Wanita,surakarta,Tokopedia,1,110000,,COD,Selesai,110000
+SEP0295,03/12/2026,SP008,Sandal Kids,Kids,41.0,wanita,Bandung,Instagram,3,75000,Diskon 10%,qris,Selesai,225000
+SEP0296,19/05/2026,SP007,Sandal Travel,Outdoor,40.0,Perempuan,Yogyakarta,shopee,1,135000,Tidak Ada,COD,Dibatalkan,135000
+SEP0297,13/05/2026,SP001,Sandal Travel,Outdoor,44.0,Laki-laki,Yogyakarta,shopee,5,130000,Diskon 10%,E-Wallet,Dibatalkan,650000
+SEP0298,01/09/2026,SP001,Sandal Comfort,Comfort,42.0,pria,Solo,Instagram,1,120000,,qris,Dikembalikan,120000
+SEP0299,19/04/2026,SP011,Sandal Kids,Kids,41.0,Wanita,Semarang,shopee,1,80000,Diskon 20%,transfer,Dibatalkan,80000
+SEP0300,21/06/2026,SP009,Sandal Kids,Kids,43.0,pria, SURAKARTA ,Shopee,1,75000,Voucher,COD,Dibatalkan,75000
+SEP0301,01/10/2026,SP008,Sandal Flat,Fashion,44.0,Pria,Bandung,shopee,2,105000,Tidak Ada,qris,Dikembalikan,210000
+SEP0302,05/08/2026,SP005,Sandal Comfort,Comfort,41.0,Perempuan,Klaten,Instagram,1,120000,Voucher,COD ,Selesai,120000
+SEP0303,27/05/2026,SP010,Sandal Outdoor,Outdoor,39.0,Pria,Surakarta,instagram,1,185000,Diskon 20%,qris,Selesai,185000
+SEP0304,03/06/2026,SP009,Sandal Outdoor,Outdoor,39.0,pria, SURAKARTA ,Website,1,180000,Diskon 10%,COD ,Selesai,180000
+SEP0305,02/07/2026,SP010,Sandal Casual,Casual,44.0,Pria,Solo,instagram,3,85000,Tidak Ada,E-Wallet,Dibatalkan,255000
+SEP0306,22/04/2026,SP004,Sandal Comfort,Comfort,44.0,wanita,Klaten,Tokopedia,2,130000,Diskon 10%,qris,Selesai,260000
+SEP0307,19/05/2026,SP011,Sandal Travel,Outdoor,44.0,Pria,Semarang,instagram,3,145000,,qris,Selesai,435000
+SEP0308,28/06/2026,SP009,Sandal Beach,Outdoor,39.0,pria,Karanganyar,Shopee,1,90000,Tidak Ada,E-Wallet,Selesai,90000
+SEP0309,06/11/2026,SP007,Sandal Slide,Casual,40.0,Laki-laki,Yogyakarta,Shopee,1,120000,Diskon 10%,transfer,Dikembalikan,120000
+SEP0310,02/08/2026,SP011,Sandal Premium,Premium,44.0,Wanita, SURAKARTA ,Website,3,235000,,COD ,Dibatalkan,705000
+SEP0311,05/01/2026,SP003,Sandal Kids,Kids,44.0,Wanita,Yogyakarta,Tokopedia,1,80000,,transfer,Selesai,80000
+SEP0312,23/04/2026,SP007,Sandal Beach,Outdoor,38.0,Wanita,surakarta,Tokopedia,1,90000,Voucher,COD,Selesai,90000
+SEP0313,19/02/2026,SP006,Sandal Sport,Sport,43.0,Wanita,Jakarta,Shopee,2,150000,Tidak Ada,COD,Dikembalikan,300000
+SEP0314,01/11/2026,SP005,Sandal Casual,Casual,42.0,Pria,Bandung,Website,3,90000,Diskon 20%,QRIS,Dikembalikan,270000
+SEP0315,26/06/2026,SP006,Sandal Slide,Casual,39.0,Laki-laki,Bandung,Website,4,110000,,E-Wallet,Selesai,440000
+SEP0316,01/01/2026,SP003,Sandal Sport,Sport,42.0,pria,Yogyakarta,Website,1,150000,Diskon 20%,QRIS,Dibatalkan,150000
+SEP0317,31/01/2026,SP005,Sandal Slide,Casual,40.0,pria,surakarta,TikTok,2,120000,Diskon 10%,Transfer,Dibatalkan,240000
+SEP0318,04/01/2026,SP008,Sandal Kids,Kids,44.0,wanita, SURAKARTA ,Tokopedia,3,75000,Diskon 10%,transfer,Dibatalkan,225000
+SEP0319,13/03/2026,SP007,Sandal Beach,Outdoor,41.0,Laki-laki,Semarang,Instagram,1,85000,,qris,Selesai,85000
+SEP0320,04/06/2026,SP005,Sandal Urban,Fashion,43.0,wanita,Jakarta,Website,4,150000,Voucher,transfer,Selesai,600000
+SEP0321,23/02/2026,SP007,Sandal Kids,Kids,38.0,Wanita,Klaten,TikTok,2,75000,,QRIS,Dikembalikan,150000
+SEP0322,19/03/2026,SP004,Sandal Outdoor,Outdoor,38.0,Perempuan,Bandung,instagram,1,175000,,QRIS,Dikembalikan,175000
+SEP0323,18/02/2026,SP011,Sandal Comfort,Comfort,41.0,wanita,Bandung,instagram,3,120000,Tidak Ada,COD ,Dibatalkan,360000
+SEP0324,30/05/2026,SP004,Sandal Urban,Fashion,38.0,Perempuan,Sukoharjo,Shopee,3,145000,,Transfer,Selesai,435000
+SEP0325,06/11/2026,SP002,Sandal Everyday,Comfort,38.0,Pria,Semarang,TikTok,1,115000,Tidak Ada,COD ,Selesai,115000
+SEP0326,14/03/2026,SP005,Sandal Flat,Fashion,44.0,wanita,Bandung,Instagram,2,95000,Diskon 10%,transfer,Dibatalkan,190000
+SEP0327,13/02/2026,SP004,Sandal Kids,Kids,43.0,wanita, SURAKARTA ,instagram,1,80000,Diskon 10%,COD,Selesai,80000
+SEP0328,26/02/2026,SP004,Sandal Urban,Fashion,44.0,Wanita,Klaten,Website,1,145000,Voucher,E-Wallet,Dibatalkan,145000
+SEP0329,13/06/2026,SP012,Sandal Everyday,Comfort,40.0,Laki-laki,Yogyakarta,shopee,1,110000,Diskon 10%,COD,Selesai,110000
+SEP0330,05/04/2026,SP006,Sandal Outdoor,Outdoor,42.0,Perempuan,Yogyakarta,Instagram,3,170000,Voucher,COD,Selesai,510000
+SEP0331,14/03/2026,SP007,Sandal Urban,Fashion,40.0,wanita,Surakarta,TikTok,2,150000,,COD ,Selesai,300000
+SEP0332,19/05/2026,SP002,Sandal Flat,Fashion,,wanita,Solo,Tokopedia,2,95000,Diskon 10%,COD ,Dikembalikan,190000
+SEP0333,24/06/2026,SP002,Sandal Urban,Fashion,39.0,Wanita, SURAKARTA ,Tokopedia,1,135000,Diskon 10%,COD,Dikembalikan,135000
+SEP0334,14/06/2026,SP006,Sandal Flat,Fashion,42.0,Pria,Yogyakarta,Website,1,105000,Diskon 20%,Transfer,Dikembalikan,105000
+SEP0335,22/04/2026,SP004,Sandal Beach,Outdoor,40.0,,Semarang,instagram,2,100000,Diskon 10%,qris,Selesai,200000
+SEP0336,30/01/2026,SP005,Sandal Kids,Kids,41.0,Perempuan,Karanganyar,Tokopedia,1,75000,Tidak Ada,QRIS,Selesai,75000
+SEP0337,19/05/2026,SP009,Sandal Sport,Sport,39.0,Laki-laki,Klaten,TikTok,1,160000,Tidak Ada,Transfer,Dibatalkan,160000
+SEP0338,06/04/2026,SP005,Sandal Comfort,Comfort,42.0,Laki-laki,Semarang,Website,2,120000,Tidak Ada,E-Wallet,Dikembalikan,240000
+SEP0339,24/03/2026,SP011,Sandal Flat,Fashion,39.0,pria, SURAKARTA ,Instagram,1,100000,Tidak Ada,Transfer,Selesai,100000
+SEP0340,16/06/2026,SP004,Sandal Comfort,Comfort,41.0,wanita,surakarta,TikTok,2,120000,,E-Wallet,Selesai,240000
+SEP0341,21/02/2026,SP002,Sandal Premium,Premium,38.0,Wanita,Yogyakarta,Website,1,235000,Tidak Ada,transfer,Dibatalkan,235000
+SEP0342,06/05/2026,SP009,Sandal Sport,Sport,39.0,Laki-laki,surakarta,Shopee,3,160000,Voucher,COD ,Selesai,480000
+SEP0343,06/04/2026,SP004,Sandal Comfort,Comfort,43.0,Wanita,Yogyakarta,Shopee,5,120000,,E-Wallet,Dibatalkan,600000
+SEP0344,05/11/2026,SP007,Sandal Beach,Outdoor,42.0,Laki-laki,surakarta,Tokopedia,5,100000,Diskon 10%,Transfer,Selesai,500000
+SEP0345,05/03/2026,SP007,Sandal Casual,Casual,41.0,pria,Bandung,instagram,2,95000,,COD ,Dikembalikan,190000
+SEP0346,23/03/2026,SP008,Sandal Slide,Casual,42.0,wanita,Sukoharjo,Shopee,1,110000,Tidak Ada,QRIS,Selesai,110000
+SEP0347,05/10/2026,SP007,Sandal Everyday,Comfort,38.0,pria,Surakarta,Instagram,3,105000,,E-Wallet,Selesai,315000
+SEP0348,17/05/2026,SP002,Sandal Sport,Sport,39.0,Pria,Jakarta,Tokopedia,2,155000,Tidak Ada,COD ,Selesai,310000
+SEP0349,20/06/2026,SP001,Sandal Beach,Outdoor,40.0,Pria,Klaten,Website,1,100000,Diskon 10%,transfer,Dibatalkan,100000
+SEP0350,18/01/2026,SP011,Sandal Beach,Outdoor,43.0,pria,Jakarta,Tokopedia,1,90000,,COD,Selesai,90000
+SEP0351,19/05/2026,SP009,Sandal Comfort,Comfort,43.0,pria,Semarang,shopee,1,115000,Diskon 20%,transfer,Selesai,115000
+SEP0352,30/03/2026,SP009,Sandal Kids,Kids,42.0,wanita,Yogyakarta,Instagram,2,80000,Diskon 10%,E-Wallet,Selesai,160000
+SEP0353,04/02/2026,SP011,Sandal Slide,Casual,44.0,Pria,Semarang,Shopee,2,120000,Voucher,QRIS,Dikembalikan,240000
+SEP0354,17/01/2026,SP008,Sandal Flat,Fashion,44.0,Wanita,Jakarta,Website,1,100000,Tidak Ada,QRIS,Selesai,100000
+SEP0355,14/05/2026,SP003,Sandal Urban,Fashion,40.0,Pria, yogyakarta ,TikTok,2,145000,,transfer,Selesai,290000
+SEP0356,22/06/2026,SP001,Sandal Comfort,Comfort,41.0,Pria,Yogyakarta, TikTok ,1,130000,,COD,Dikembalikan,130000
+SEP0357,02/07/2026,SP006,Sandal Flat,Fashion,38.0,Perempuan,Klaten,Website,2,95000,Diskon 10%,COD,Dibatalkan,190000
+SEP0358,27/04/2026,SP007,Sandal Slide,Casual,44.0,Wanita,Yogyakarta,Tokopedia,1,110000,Voucher,COD ,Selesai,110000
+SEP0359,22/04/2026,SP012,Sandal Sport,Sport,40.0,Laki-laki,surakarta,instagram,4,160000,,qris,Dibatalkan,640000
+SEP0360,17/01/2026,SP006,Sandal Flat,Fashion,41.0,wanita,Klaten,Instagram,2,105000,Voucher,E-Wallet,Dibatalkan,210000
+SEP0361,29/05/2026,SP003,Sandal Flat,Fashion,44.0,Wanita,Sukoharjo,instagram,2,100000,Tidak Ada,E-Wallet,Selesai,200000
+SEP0362,04/01/2026,SP007,Sandal Comfort,Comfort,38.0,wanita,Klaten,shopee,3,120000,Tidak Ada,transfer,Selesai,360000
+SEP0363,05/04/2026,SP003,Sandal Casual,Casual,41.0,wanita,Sukoharjo,Instagram,1,80000,Diskon 10%,qris,Dibatalkan,80000
+SEP0364,20/06/2026,SP006,Sandal Premium,Premium,39.0,Wanita,Yogyakarta,Instagram,1,220000,Voucher,transfer,Selesai,220000
+SEP0365,20/06/2026,SP011,Sandal Flat,Fashion,38.0,Wanita,Bandung,shopee,2,95000,,QRIS,Dikembalikan,190000
+SEP0366,19/02/2026,SP001,Sandal Premium,Premium,43.0,Perempuan,Semarang,Instagram,2,225000,Voucher,COD ,Selesai,450000
+SEP0367,15/04/2026,SP011,Sandal Casual,Casual,40.0,Laki-laki,Klaten,shopee,1,85000,,transfer,Dibatalkan,85000
+SEP0368,13/03/2026,SP006,Sandal Casual,Casual,39.0,Laki-laki,Surakarta,instagram,1,90000,Voucher,Transfer,Selesai,90000
+SEP0369,01/09/2026,SP004,Sandal Comfort,Comfort,38.0,Pria,Sukoharjo,instagram,1,130000,Tidak Ada,transfer,Selesai,130000
+SEP0370,20/02/2026,SP009,Sandal Outdoor,Outdoor,40.0,Pria,Solo,shopee,1,180000,Voucher,QRIS,Dibatalkan,180000
+SEP0371,13/04/2026,SP007,Sandal Casual,Casual,44.0,Laki-laki,surakarta,Tokopedia,1,90000,Diskon 20%,COD,Selesai,90000
+SEP0372,01/08/2026,SP010,Sandal Flat,Fashion,40.0,Laki-laki,Klaten,instagram,3,95000,Voucher,E-Wallet,Dikembalikan,285000
+SEP0373,28/05/2026,SP005,Sandal Comfort,Comfort,40.0,Wanita,Yogyakarta,Website,1,125000,,transfer,Dibatalkan,125000
+SEP0374,26/03/2026,SP002,Sandal Comfort,Comfort,40.0,Perempuan,Surakarta,Instagram,1,130000,Voucher,COD ,Selesai,130000
+SEP0375,14/06/2026,SP005,Sandal Beach,Outdoor,38.0,Pria,Karanganyar,shopee,3,90000,,transfer,Selesai,270000
+SEP0376,04/07/2026,SP003,Sandal Kids,Kids,41.0,Wanita,Sukoharjo,Shopee,1,75000,Tidak Ada,Transfer,Dibatalkan,75000
+SEP0377,11/06/2026,SP008,Sandal Urban,Fashion,42.0,pria,Sukoharjo,shopee,1,135000,Tidak Ada,Transfer,Selesai,135000
+SEP0378,25/05/2026,SP007,Sandal Slide,Casual,41.0,Wanita,Semarang,Website,1,120000,,qris,Selesai,120000
+SEP0379,03/11/2026,SP010,Sandal Slide,Casual,42.0,Pria,Surakarta,shopee,2,105000,Voucher,transfer,Dikembalikan,210000
+SEP0380,16/01/2026,SP009,Sandal Travel,Outdoor,38.0,pria,Jakarta,Tokopedia,1,130000,,transfer,Dikembalikan,130000
+SEP0381,22/06/2026,SP003,Sandal Urban,Fashion,38.0,Perempuan,Karanganyar,instagram,2,135000,,COD ,Selesai,270000
+SEP0382,19/03/2026,SP001,Sandal Beach,Outdoor,40.0,Wanita,Karanganyar,Shopee,2,90000,,qris,Dibatalkan,180000
+SEP0383,04/03/2026,SP010,Sandal Beach,Outdoor,38.0,pria,Karanganyar,instagram,3,95000,Diskon 20%,transfer,Selesai,285000
+SEP0384,24/06/2026,SP009,Sandal Everyday,Comfort,41.0,wanita,Semarang,Website,3,100000,Tidak Ada,E-Wallet,Selesai,300000
+SEP0385,23/05/2026,SP001,Sandal Urban,Fashion,43.0,Wanita,Yogyakarta,shopee,3,145000,,qris,Selesai,435000
+SEP0386,24/05/2026,SP004,Sandal Casual,Casual,40.0,pria,Jakarta,TikTok,1,95000,,Transfer,Dibatalkan,95000
+SEP0387,15/03/2026,SP002,Sandal Premium,Premium,39.0,Pria,Karanganyar,shopee,2,225000,Voucher,COD ,Dikembalikan,450000
+SEP0388,06/04/2026,SP003,Sandal Slide,Casual,42.0,pria,Klaten,TikTok,1,120000,Voucher, QRIS ,Dikembalikan,120000
+SEP0389,01/04/2026,SP006,Sandal Urban,Fashion,38.0,pria,surakarta,TikTok,1,135000,Tidak Ada,COD,Selesai,135000
+SEP0390,06/10/2026,SP006,Sandal Outdoor,Outdoor,44.0,wanita,Bandung,Website,4,180000,Tidak Ada,transfer,Dibatalkan,720000
+SEP0391,31/03/2026,SP008,Sandal Urban,Fashion,42.0,Perempuan,Klaten,instagram,2,140000,Voucher,E-Wallet,Dikembalikan,280000
+SEP0392,23/06/2026,SP008,Sandal Travel,Outdoor,40.0,Wanita,Yogyakarta,shopee,3,135000,,COD ,Selesai,405000
+SEP0393,26/02/2026,SP009,Sandal Premium,Premium,38.0,pria, SURAKARTA ,Tokopedia,2,225000,,Transfer,Dibatalkan,450000
+SEP0394,16/01/2026,SP003,Sandal Beach,Outdoor,41.0,Pria, SURAKARTA ,Instagram,4,85000,Diskon 10%,transfer,Selesai,340000
+SEP0395,27/01/2026,SP012,Sandal Comfort,Comfort,39.0,Pria,Bandung,TikTok,1,115000,Diskon 20%,transfer,Selesai,115000
+SEP0396,04/05/2026,SP003,Sandal Beach,Outdoor,40.0,Wanita,Surakarta,Instagram,2,85000,,transfer,Selesai,170000
+SEP0397,31/01/2026,SP001,Sandal Slide,Casual,44.0,pria,Semarang,Instagram,4,110000,Tidak Ada,E-Wallet,Dikembalikan,440000
+SEP0398,28/01/2026,SP012,Sandal Kids,Kids,40.0,Wanita,Karanganyar,Website,4,75000,Tidak Ada,transfer,Selesai,300000
+SEP0399,03/11/2026,SP006,Sandal Beach,Outdoor,44.0,wanita,Karanganyar,Instagram,3,95000,Tidak Ada,COD ,Dibatalkan,285000
+SEP0400,02/03/2026,SP002,Sandal Flat,Fashion,40.0,Wanita,Surakarta,Website,2,100000,,COD,Dikembalikan,200000
+SEP0401,02/03/2026,SP001,Sandal Premium,Premium,42.0,pria, SURAKARTA ,instagram,5,220000,Tidak Ada,Transfer,Dikembalikan,1100000
+SEP0402,27/02/2026,SP006,Sandal Flat,Fashion,38.0,, SURAKARTA ,Shopee,3,90000,Diskon 20%,Transfer,Dikembalikan,270000
+SEP0403,21/02/2026,SP007,Sandal Slide,Casual,43.0,Laki-laki,Klaten,TikTok,5,110000,Diskon 20%,Transfer,Dikembalikan,550000
+SEP0404,22/03/2026,SP003,Sandal Casual,Casual,43.0,wanita,Surakarta,Website,1,95000,Diskon 10%,Transfer,Selesai,95000
+SEP0405,15/04/2026,SP001,Sandal Everyday,Comfort,44.0,Pria,Karanganyar,Shopee,1,110000,Voucher,QRIS,Dikembalikan,110000
+SEP0406,04/02/2026,SP003,Sandal Everyday,Comfort,41.0,wanita,Semarang,Tokopedia,3,105000,Diskon 10%,COD,Dikembalikan,315000
+SEP0407,07/03/2026,SP001,Sandal Premium,Premium,44.0,wanita,Bandung,TikTok,2,235000,Diskon 10%,transfer,Selesai,470000
+SEP0408,01/09/2026,SP007,Sandal Casual,Casual,39.0,wanita,surakarta,Instagram,1,85000,Diskon 10%,qris,Selesai,85000
+SEP0409,06/05/2026,SP011,Sandal Flat,Fashion,43.0,Wanita,Bandung,Website,1,90000,Tidak Ada,COD,Selesai,90000
+SEP0410,30/06/2026,SP008,Sandal Everyday,Comfort,42.0,Laki-laki,Sukoharjo,Instagram,2,100000,,E-Wallet,Selesai,200000
+SEP0411,24/06/2026,SP011,Sandal Slide,Casual,41.0,wanita,Bandung,Website,4,110000,Tidak Ada,qris,Dikembalikan,440000
+SEP0412,17/05/2026,SP005,Sandal Flat,Fashion,43.0,Perempuan,Semarang,Tokopedia,1,95000,Diskon 10%,Transfer,Dikembalikan,95000
+SEP0413,06/10/2026,SP009,Sandal Everyday,Comfort,41.0,Perempuan,Karanganyar,Tokopedia,1,105000,Diskon 20%,Transfer,Dikembalikan,105000
+SEP0414,05/08/2026,SP008,Sandal Comfort,Comfort,44.0,Laki-laki,Sukoharjo,Website,1,125000,Diskon 10%,transfer,Dibatalkan,125000
+SEP0415,01/02/2026,SP011,Sandal Flat,Fashion,,wanita,surakarta,Tokopedia,1,100000,Tidak Ada,COD ,Dikembalikan,100000
+SEP0416,20/06/2026,SP002,Sandal Premium,Premium,40.0,Laki-laki,Jakarta,Instagram,4,220000,Voucher,COD,Selesai,880000
+SEP0417,03/06/2026,SP009,Sandal Slide,Casual,39.0,Wanita,Bandung,Website,2,120000,Tidak Ada,COD,Selesai,240000
+SEP0418,16/03/2026,SP006,Sandal Urban,Fashion,43.0,Perempuan,Sukoharjo,instagram,1,145000,Voucher,COD ,Selesai,145000
+SEP0419,18/04/2026,SP003,Sandal Casual,Casual,41.0,wanita,Surakarta,Instagram,1,85000,Tidak Ada,COD ,Selesai,85000
+SEP0420,15/03/2026,SP010,Sandal Kids,Kids,43.0,wanita, SURAKARTA ,Instagram,2,70000,Diskon 10%,qris,Dibatalkan,140000
+SEP0421,29/01/2026,SP006,Sandal Slide,Casual,39.0,wanita,Sukoharjo,instagram,1,105000,Diskon 10%,qris,Selesai,105000
+SEP0422,19/05/2026,SP002,Sandal Outdoor,Outdoor,43.0,Laki-laki,Klaten,Instagram,1,180000,Diskon 20%,COD ,Dikembalikan,180000
+SEP0423,06/09/2026,SP002,Sandal Kids,Kids,42.0,Perempuan,Surakarta,shopee,1,80000,Tidak Ada,COD ,Dikembalikan,80000
+SEP0424,21/01/2026,SP007,Sandal Casual,Casual,40.0,wanita,surakarta,Website,3,80000,Diskon 10%,E-Wallet,Dikembalikan,240000
+SEP0425,02/04/2026,SP003,Sandal Everyday,Comfort,38.0,Pria,Surakarta,Website,2,110000,Voucher,E-Wallet,Dikembalikan,220000
+SEP0426,28/05/2026,SP009,Sandal Comfort,Comfort,40.0,Laki-laki, yogyakarta ,Instagram,1,125000,Diskon 20%,qris,Dibatalkan,125000
+SEP0427,26/02/2026,SP008,Sandal Sport,Sport,40.0,pria,surakarta,Shopee,4,145000,Diskon 10%,COD ,Selesai,580000
+SEP0428,15/01/2026,SP002,Sandal Urban,Fashion,43.0,pria,Surakarta,instagram,1,145000,Voucher,transfer,Selesai,145000
+SEP0429,28/04/2026,SP002,Sandal Comfort,Comfort,40.0,Pria, SURAKARTA ,Shopee,1,125000,Tidak Ada,E-Wallet,Selesai,125000
+SEP0430,28/06/2026,SP010,Sandal Comfort,Comfort,41.0,pria, SURAKARTA ,Instagram,2,120000,Diskon 10%,transfer,Selesai,240000
+SEP0431,02/05/2026,SP011,Sandal Casual,Casual,44.0,wanita,surakarta,TikTok,3,80000,Voucher,QRIS,Selesai,240000
+SEP0432,23/05/2026,SP004,Sandal Sport,Sport,38.0,Wanita,Karanganyar,Instagram,3,145000,Tidak Ada,QRIS,Dikembalikan,435000
+SEP0433,01/10/2026,SP007,Sandal Kids,Kids,44.0,Perempuan,Jakarta,Shopee,2,80000,Diskon 20%,qris,Selesai,160000
+SEP0434,18/01/2026,SP003,Sandal Slide,Casual,38.0,Wanita,Bandung,instagram,1,110000,Diskon 10%,COD ,Selesai,110000
+SEP0435,06/03/2026,SP007,Sandal Urban,Fashion,38.0,Perempuan,Karanganyar,TikTok,2,145000,Voucher,transfer,Dibatalkan,290000
+SEP0436,14/05/2026,SP011,Sandal Beach,Outdoor,42.0,wanita,Karanganyar,Shopee,2,85000,Diskon 20%,COD ,Selesai,170000
+SEP0437,21/05/2026,SP006,Sandal Beach,Outdoor,39.0,Pria,Jakarta,Tokopedia,2,90000,Voucher,COD,Dibatalkan,180000
+SEP0438,24/03/2026,SP003,Sandal Flat,Fashion,44.0,wanita,Karanganyar,Shopee,2,105000,,transfer,Dibatalkan,210000
+SEP0439,18/02/2026,SP004,Sandal Casual,Casual,40.0,wanita,Yogyakarta,Instagram,3,95000,,QRIS,Selesai,285000
+SEP0440,16/06/2026,SP003,Sandal Premium,Premium,42.0,Wanita,Solo,shopee,2,225000,Diskon 20%,COD ,Dikembalikan,450000
+SEP0441,30/01/2026,SP010,Sandal Urban,Fashion,43.0,Pria, SURAKARTA ,Shopee,1,145000,Diskon 10%,COD ,Dibatalkan,145000
+SEP0442,22/06/2026,SP011,Sandal Sport,Sport,39.0,Wanita,surakarta,Tokopedia,1,145000,Tidak Ada,qris,Selesai,145000
+SEP0443,06/06/2026,SP012,Sandal Slide,Casual,39.0,Pria,Semarang,TikTok,1,110000,,COD,Selesai,110000
+SEP0444,01/04/2026,SP006,Sandal Premium,Premium,38.0,Laki-laki,Jakarta,instagram,3,225000,,Transfer,Selesai,675000
+SEP0445,17/03/2026,SP012,Sandal Premium,Premium,39.0,Pria,Karanganyar, TikTok ,3,220000,Voucher,transfer,Selesai,660000
+SEP0446,02/06/2026,SP001,Sandal Premium,Premium,44.0,Wanita,Karanganyar,TikTok,2,225000,Tidak Ada,Transfer,Dikembalikan,450000
+SEP0447,13/02/2026,SP007,Sandal Outdoor,Outdoor,44.0,Perempuan,Sukoharjo,instagram,2,185000,,QRIS,Selesai,370000
+SEP0448,26/05/2026,SP012,Sandal Premium,Premium,42.0,Perempuan, SURAKARTA ,shopee,4,235000,Diskon 10%,transfer,Dibatalkan,940000
+SEP0449,02/05/2026,SP007,Sandal Beach,Outdoor,44.0,pria,Klaten,Tokopedia,3,90000,,qris,Dikembalikan,270000
+SEP0450,18/02/2026,SP010,Sandal Outdoor,Outdoor,39.0,pria,Semarang,TikTok,1,175000,Tidak Ada,COD,Selesai,175000
+SEP0451,14/05/2026,SP003,Sandal Sport,Sport,41.0,Wanita,Jakarta,shopee,2,155000,,Transfer,Selesai,310000
+SEP0452,02/01/2026,SP009,Sandal Sport,Sport,43.0,wanita,Karanganyar,Website,1,145000,Diskon 10%,COD ,Selesai,145000
+SEP0453,03/04/2026,SP003,Sandal Kids,Kids,41.0,Perempuan,Sukoharjo,Website,1,75000,Diskon 20%,QRIS,Dikembalikan,75000
+SEP0454,16/04/2026,SP009,Sandal Casual,Casual,42.0,Pria,Solo,Instagram,2,85000,Diskon 20%,E-Wallet,Selesai,170000
+SEP0455,01/12/2026,SP011,Sandal Beach,Outdoor,39.0,Perempuan, SURAKARTA ,instagram,1,85000,Diskon 10%,Transfer,Selesai,85000
+SEP0456,14/04/2026,SP002,Sandal Everyday,Comfort,44.0,pria,Sukoharjo,Instagram,4,110000,,QRIS,Selesai,440000
+SEP0457,24/04/2026,SP004,Sandal Kids,Kids,41.0,Pria,Klaten,Shopee,2,70000,Voucher,transfer,Dikembalikan,140000
+SEP0458,26/03/2026,SP011,Sandal Beach,Outdoor,42.0,Laki-laki,Semarang,TikTok,1,100000,,Transfer,Selesai,100000
+SEP0459,20/04/2026,SP006,Sandal Kids,Kids,42.0,Pria,Karanganyar,instagram,2,85000,,Transfer,Selesai,170000
+SEP0460,15/05/2026,SP001,Sandal Premium,Premium,42.0,Wanita,Sukoharjo,Instagram,2,225000,,COD ,Selesai,450000
+SEP0461,13/03/2026,SP004,Sandal Flat,Fashion,41.0,Pria,Surakarta,shopee,1,95000,,transfer,Selesai,95000
+SEP0462,30/05/2026,SP001,Sandal Sport,Sport,44.0,Wanita,Bandung,Tokopedia,4,155000,,COD ,Selesai,620000
+SEP0463,04/08/2026,SP003,Sandal Outdoor,Outdoor,42.0,wanita,surakarta,Tokopedia,1,185000,Tidak Ada,QRIS,Selesai,185000
+SEP0464,22/06/2026,SP001,Sandal Casual,Casual,38.0,pria,Karanganyar,Shopee,1,95000,,QRIS,Selesai,95000
+SEP0465,22/01/2026,SP010,Sandal Casual,Casual,43.0,pria,surakarta,instagram,2,85000,Diskon 10%,COD,Selesai,170000
+SEP0466,26/06/2026,SP008,Sandal Flat,Fashion,42.0,Wanita,Klaten,Website,2,95000,,COD ,Selesai,190000
+SEP0467,20/04/2026,SP007,Sandal Kids,Kids,41.0,Perempuan,Klaten,Website,1,85000,,transfer,Selesai,85000
+SEP0468,05/02/2026,SP012,Sandal Travel,Outdoor,44.0,pria,Karanganyar,instagram,3,145000,Diskon 10%,COD,Selesai,435000
+SEP0469,14/04/2026,SP009,Sandal Premium,Premium,42.0,,Solo,Instagram,2,225000,,Transfer,Dibatalkan,450000
+SEP0470,02/02/2026,SP011,Sandal Flat,Fashion,38.0,Perempuan,Klaten,instagram,2,105000,Diskon 10%,qris,Selesai,210000
+SEP0471,15/03/2026,SP006,Sandal Slide,Casual,42.0,pria,Semarang,Website,1,115000,,COD ,Dikembalikan,115000
+SEP0472,23/05/2026,SP003,Sandal Sport,Sport,40.0,Pria,Bandung,Website,2,150000,,COD ,Selesai,300000
+SEP0473,16/05/2026,SP010,Sandal Beach,Outdoor,38.0,pria,surakarta,Website,5,85000,,COD ,Selesai,425000
+SEP0474,18/04/2026,SP002,Sandal Urban,Fashion,41.0,Wanita,Yogyakarta,Tokopedia,3,150000,,E-Wallet,Dikembalikan,450000
+SEP0475,17/06/2026,SP012,Sandal Comfort,Comfort,43.0,Wanita,Yogyakarta,shopee,2,130000,Diskon 20%,qris,Selesai,260000
+SEP0476,23/01/2026,SP008,Sandal Sport,Sport,38.0,Perempuan,Surakarta,Tokopedia,1,150000,Diskon 20%,COD,Selesai,150000
+SEP0477,03/02/2026,SP008,Sandal Kids,Kids,40.0,Laki-laki,Yogyakarta,Instagram,1,85000,Diskon 10%,Transfer,Selesai,85000
+SEP0478,28/06/2026,SP012,Sandal Casual,Casual,40.0,pria,Surakarta,Shopee,1,90000,Diskon 10%,Transfer,Dikembalikan,90000
+SEP0479,28/01/2026,SP004,Sandal Beach,Outdoor,42.0,wanita,surakarta,Tokopedia,2,90000,Voucher,COD,Selesai,180000
+SEP0480,15/05/2026,SP001,Sandal Kids,Kids,39.0,pria,Jakarta,TikTok,1,80000,Diskon 20%,transfer,Selesai,80000
+SEP0481,17/03/2026,SP006,Sandal Flat,Fashion,44.0,Pria,Yogyakarta,Shopee,1,95000,,qris,Selesai,95000
+SEP0482,17/02/2026,SP007,Sandal Slide,Casual,41.0,Laki-laki,Jakarta,Shopee,3,110000,Tidak Ada,QRIS,Selesai,330000
+SEP0483,04/12/2026,SP006,Sandal Beach,Outdoor,40.0,wanita,Sukoharjo,shopee,3,100000,,QRIS,Selesai,300000
+SEP0484,22/04/2026,SP002,Sandal Kids,Kids,40.0,wanita,Karanganyar,Instagram,2,80000,Voucher,qris,Dibatalkan,160000
+SEP0485,06/07/2026,SP006,Sandal Everyday,Comfort,42.0,Perempuan,Solo,Website,2,105000,Voucher, QRIS ,Selesai,210000
+SEP0486,06/04/2026,SP006,Sandal Slide,Casual,40.0,Laki-laki,Jakarta,TikTok,1,110000,,QRIS,Dikembalikan,110000
+SEP0487,24/01/2026,SP009,Sandal Casual,Casual,42.0,Perempuan,Sukoharjo,Tokopedia,1,95000,Diskon 20%,COD ,Dibatalkan,95000
+SEP0488,05/05/2026,SP005,Sandal Beach,Outdoor,40.0,wanita,Jakarta,instagram,3,90000,,QRIS,Selesai,270000
+SEP0489,21/01/2026,SP002,Sandal Casual,Casual,43.0,Perempuan,Sukoharjo,Shopee,1,85000,Diskon 10%,qris,Selesai,85000
+SEP0490,25/05/2026,SP010,Sandal Beach,Outdoor,40.0,Pria, SURAKARTA ,Instagram,1,90000,Voucher,E-Wallet,Dikembalikan,90000
+SEP0491,03/04/2026,SP005,Sandal Outdoor,Outdoor,42.0,Wanita,Bandung,instagram,4,170000,Voucher,transfer,Selesai,680000
+SEP0492,27/05/2026,SP008,Sandal Travel,Outdoor,42.0,Pria, SURAKARTA ,Tokopedia,1,145000,,QRIS,Selesai,145000
+SEP0493,02/03/2026,SP003,Sandal Casual,Casual,44.0,Perempuan,Semarang,TikTok,2,85000,Diskon 10%,COD,Selesai,170000
+SEP0494,05/10/2026,SP009,Sandal Outdoor,Outdoor,39.0,wanita,Bandung,TikTok,2,170000,Tidak Ada,qris,Selesai,340000
+SEP0495,28/03/2026,SP007,Sandal Beach,Outdoor,44.0,Pria,Karanganyar,Website,1,90000,Diskon 20%,QRIS,Dikembalikan,90000
+SEP0496,05/01/2026,SP001,Sandal Kids,Kids,40.0,wanita, SURAKARTA ,Tokopedia,2,85000,Diskon 20%,qris,Dibatalkan,170000
+SEP0497,04/09/2026,SP005,Sandal Sport,Sport,40.0,Pria, yogyakarta ,instagram,1,160000,Diskon 20%,Transfer,Dibatalkan,160000
+SEP0498,01/10/2026,SP008,Sandal Everyday,Comfort,,Wanita,Klaten,Website,1,105000,,COD,Selesai,105000
+SEP0499,18/03/2026,SP001,Sandal Premium,Premium,38.0,pria,surakarta,Website,1,225000,Voucher,Transfer,Selesai,225000
+SEP0500,15/04/2026,SP012,Sandal Everyday,Comfort,43.0,Perempuan,Karanganyar,Shopee,2,100000,,COD ,Selesai,200000
+SEP0501,03/08/2026,SP005,Sandal Slide,Casual,44.0,Pria,Jakarta,Website,1,110000,Tidak Ada,transfer,Dibatalkan,110000
+SEP0502,04/06/2026,SP010,Sandal Outdoor,Outdoor,43.0,Laki-laki,Surakarta,Shopee,5,180000,,COD ,Selesai,900000
+SEP0503,13/06/2026,SP011,Sandal Kids,Kids,42.0,Laki-laki,Bandung,Instagram,1,80000,Diskon 20%,COD ,Selesai,80000
+SEP0504,20/03/2026,SP008,Sandal Flat,Fashion,42.0,Wanita,Jakarta,Website,1,105000,,E-Wallet,Dikembalikan,105000
+SEP0505,05/02/2026,SP001,Sandal Slide,Casual,39.0,Perempuan,Surakarta,TikTok,1,115000,Diskon 10%,qris,Dibatalkan,115000
+SEP0506,05/04/2026,SP012,Sandal Outdoor,Outdoor,38.0,Wanita, SURAKARTA ,shopee,1,185000,,qris,Selesai,185000
+SEP0507,27/01/2026,SP008,Sandal Slide,Casual,44.0,wanita,Surakarta,TikTok,1,115000,Diskon 20%,E-Wallet,Selesai,115000
+SEP0508,13/05/2026,SP006,Sandal Slide,Casual,42.0,Pria,Bandung,TikTok,1,105000,Diskon 10%,qris,Dibatalkan,105000
+SEP0509,31/05/2026,SP001,Sandal Travel,Outdoor,43.0,pria,Semarang,instagram,3,135000,,qris,Dikembalikan,405000
+SEP0510,01/12/2026,SP012,Sandal Beach,Outdoor,43.0,Perempuan,Surakarta,Shopee,2,95000,Tidak Ada,qris,Selesai,190000
+SEP0511,03/12/2026,SP003,Sandal Travel,Outdoor,44.0,Perempuan,surakarta,shopee,2,140000,Diskon 20%,qris,Dibatalkan,280000
+SEP0512,02/05/2026,SP008,Sandal Kids,Kids,38.0,pria,Jakarta,shopee,1,85000,Voucher,transfer,Dibatalkan,85000
+SEP0513,22/01/2026,SP008,Sandal Travel,Outdoor,44.0,Pria,Solo,Shopee,2,135000,,Transfer,Dikembalikan,270000
+SEP0514,03/08/2026,SP006,Sandal Beach,Outdoor,38.0,Wanita,Yogyakarta,Website,1,100000,,qris,Dibatalkan,100000
+SEP0515,26/04/2026,SP007,Sandal Urban,Fashion,40.0,Pria,Solo,TikTok,1,145000,,Transfer,Selesai,145000
+SEP0516,18/02/2026,SP007,Sandal Flat,Fashion,38.0,Pria,Semarang,instagram,2,95000,Diskon 10%,COD ,Selesai,190000
+SEP0517,20/01/2026,SP003,Sandal Outdoor,Outdoor,40.0,Perempuan,Sukoharjo,instagram,1,170000,,QRIS,Selesai,170000
+SEP0518,02/04/2026,SP011,Sandal Sport,Sport,40.0,wanita,Bandung,Website,1,150000,,QRIS,Selesai,150000
+SEP0519,24/03/2026,SP003,Sandal Beach,Outdoor,39.0,wanita,Semarang,instagram,1,95000,,E-Wallet,Dikembalikan,95000
+SEP0520,21/05/2026,SP001,Sandal Premium,Premium,40.0,Perempuan, SURAKARTA ,instagram,2,225000,Tidak Ada,COD ,Selesai,450000
+SEP0521,13/04/2026,SP009,Sandal Sport,Sport,43.0,Laki-laki,Yogyakarta,Website,3,150000,Voucher,transfer,Selesai,450000
+SEP0522,25/06/2026,SP002,Sandal Travel,Outdoor,39.0,Wanita,surakarta,instagram,1,140000,Tidak Ada,COD,Dikembalikan,140000
+SEP0523,25/02/2026,SP004,Sandal Casual,Casual,40.0,wanita, SURAKARTA ,Website,3,80000,Diskon 20%,qris,Selesai,240000
+SEP0524,14/01/2026,SP005,Sandal Slide,Casual,41.0,Wanita, SURAKARTA ,Tokopedia,2,110000,,E-Wallet,Selesai,220000
+SEP0525,27/03/2026,SP006,Sandal Kids,Kids,40.0,Wanita,Karanganyar,shopee,1,80000,Diskon 20%,COD,Selesai,80000
+SEP0526,21/06/2026,SP007,Sandal Everyday,Comfort,42.0,pria,Karanganyar,Tokopedia,2,110000,Tidak Ada,QRIS,Dikembalikan,220000
+SEP0527,27/05/2026,SP009,Sandal Premium,Premium,42.0,pria,Yogyakarta,TikTok,2,220000,Diskon 10%,COD ,Selesai,440000
+SEP0528,13/02/2026,SP007,Sandal Casual,Casual,40.0,pria, SURAKARTA ,shopee,2,95000,,transfer,Dikembalikan,190000
+SEP0529,18/01/2026,SP012,Sandal Beach,Outdoor,39.0,Pria, SURAKARTA ,shopee,1,85000,Tidak Ada,Transfer,Selesai,85000
+SEP0530,26/04/2026,SP003,Sandal Sport,Sport,40.0,Perempuan,Surakarta,Tokopedia,1,150000,Diskon 10%,Transfer,Selesai,150000
+SEP0531,06/01/2026,SP011,Sandal Comfort,Comfort,39.0,Perempuan,surakarta,Website,1,130000,Voucher,E-Wallet,Dikembalikan,130000
+SEP0532,22/06/2026,SP005,Sandal Flat,Fashion,40.0,wanita,Jakarta,Instagram,1,105000,Diskon 20%,qris,Selesai,105000
+SEP0533,05/05/2026,SP010,Sandal Slide,Casual,41.0,pria, SURAKARTA ,TikTok,3,105000,Tidak Ada,E-Wallet,Dikembalikan,315000
+SEP0534,21/01/2026,SP001,Sandal Kids,Kids,44.0,Wanita,Bandung, TikTok ,2,70000,Diskon 10%,E-Wallet,Selesai,140000
+SEP0535,18/02/2026,SP002,Sandal Everyday,Comfort,41.0,Wanita,Karanganyar,Instagram,3,105000,Tidak Ada,QRIS,Selesai,315000
+SEP0536,01/06/2026,SP002,Sandal Flat,Fashion,43.0,, SURAKARTA ,Instagram,2,100000,Diskon 10%,qris,Dibatalkan,200000
+SEP0537,04/05/2026,SP005,Sandal Sport,Sport,39.0,pria,Bandung,shopee,3,150000,Voucher,COD,Dibatalkan,450000
+SEP0538,28/04/2026,SP003,Sandal Everyday,Comfort,40.0,Pria,Semarang,Shopee,3,110000,Diskon 10%,transfer,Dibatalkan,330000
+SEP0539,17/06/2026,SP007,Sandal Everyday,Comfort,42.0,Pria,Bandung,Tokopedia,3,105000,,qris,Selesai,315000
+SEP0540,01/05/2026,SP002,Sandal Comfort,Comfort,39.0,wanita, SURAKARTA ,TikTok,2,120000,,Transfer,Selesai,240000
+SEP0541,19/01/2026,SP009,Sandal Casual,Casual,38.0,Wanita,Yogyakarta,shopee,2,80000,Voucher,COD,Selesai,160000
+SEP0542,18/01/2026,SP007,Sandal Kids,Kids,39.0,pria,Sukoharjo,Instagram,1,75000,,qris,Dikembalikan,75000
+SEP0543,01/12/2026,SP001,Sandal Outdoor,Outdoor,41.0,Pria,Yogyakarta,Shopee,4,175000,,COD ,Dibatalkan,700000
+SEP0544,05/08/2026,SP003,Sandal Everyday,Comfort,39.0,Laki-laki,Klaten,Tokopedia,1,100000,,COD,Selesai,100000
+SEP0545,01/03/2026,SP004,Sandal Urban,Fashion,40.0,Laki-laki,Karanganyar,Shopee,2,135000,Tidak Ada,COD,Dikembalikan,270000
+SEP0546,19/01/2026,SP006,Sandal Flat,Fashion,38.0,Laki-laki,Yogyakarta,Website,1,95000,Tidak Ada,COD,Selesai,95000
+SEP0547,05/01/2026,SP009,Sandal Urban,Fashion,40.0,Wanita,Yogyakarta,shopee,1,140000,Diskon 10%,E-Wallet,Selesai,140000
+SEP0548,03/03/2026,SP002,Sandal Casual,Casual,44.0,Pria,Jakarta,TikTok,2,80000,,E-Wallet,Selesai,160000
+SEP0549,31/03/2026,SP004,Sandal Premium,Premium,44.0,wanita,Surakarta,Instagram,4,225000,Diskon 20%,E-Wallet,Selesai,900000
+SEP0550,02/03/2026,SP010,Sandal Premium,Premium,44.0,pria,surakarta,Website,1,235000,,E-Wallet,Dikembalikan,235000
+SEP0551,02/03/2026,SP008,Sandal Kids,Kids,42.0,Wanita,Semarang,Website,3,85000,,COD ,Selesai,255000
+SEP0552,16/01/2026,SP007,Sandal Kids,Kids,41.0,Pria,Klaten,TikTok,4,80000,Diskon 20%,transfer,Selesai,320000
+SEP0553,21/06/2026,SP007,Sandal Beach,Outdoor,39.0,wanita,Klaten,TikTok,2,85000,Diskon 10%,transfer,Selesai,170000
+SEP0554,05/04/2026,SP011,Sandal Beach,Outdoor,41.0,pria,surakarta,Website,2,100000,Diskon 10%,COD,Selesai,200000
+SEP0555,30/04/2026,SP002,Sandal Sport,Sport,42.0,pria,Semarang,Tokopedia,1,160000,Tidak Ada,QRIS,Dibatalkan,160000
+SEP0556,14/04/2026,SP010,Sandal Kids,Kids,41.0,Wanita,Semarang,Website,1,85000,,qris,Selesai,85000
+SEP0557,17/04/2026,SP010,Sandal Comfort,Comfort,41.0,Laki-laki,Bandung,instagram,3,130000,Diskon 20%,Transfer,Selesai,390000
+SEP0558,30/04/2026,SP011,Sandal Comfort,Comfort,41.0,Laki-laki,Semarang,instagram,1,115000,Diskon 20%,transfer,Selesai,115000
+SEP0559,03/04/2026,SP007,Sandal Sport,Sport,39.0,Pria,surakarta,Website,2,150000,,COD ,Dibatalkan,300000
+SEP0560,07/01/2026,SP006,Sandal Everyday,Comfort,42.0,Pria,Solo,instagram,1,105000,Tidak Ada,transfer,Selesai,105000
+SEP0561,29/05/2026,SP009,Sandal Premium,Premium,44.0,wanita,Bandung,TikTok,4,220000,,COD,Dibatalkan,880000
+SEP0562,14/02/2026,SP007,Sandal Slide,Casual,38.0,Pria,Yogyakarta,Tokopedia,1,115000,Diskon 10%,Transfer,Dikembalikan,115000
+SEP0563,06/06/2026,SP006,Sandal Kids,Kids,44.0,wanita,surakarta,shopee,1,75000,,Transfer,Dibatalkan,75000
+SEP0564,03/07/2026,SP004,Sandal Flat,Fashion,43.0,Pria,Klaten,shopee,2,90000,,COD ,Selesai,180000
+SEP0565,02/09/2026,SP011,Sandal Flat,Fashion,38.0,Pria,Surakarta,Tokopedia,1,90000,Diskon 10%,Transfer,Selesai,90000
+SEP0566,05/01/2026,SP003,Sandal Casual,Casual,38.0,Pria,Bandung,Shopee,3,80000,,qris,Dikembalikan,240000
+SEP0567,03/06/2026,SP003,Sandal Everyday,Comfort,39.0,Laki-laki,Surakarta,Shopee,2,100000,Diskon 10%,qris,Selesai,200000
+SEP0568,07/01/2026,SP001,Sandal Urban,Fashion,43.0,wanita, yogyakarta ,shopee,1,150000,Diskon 20%,COD ,Selesai,150000
+SEP0569,31/01/2026,SP005,Sandal Beach,Outdoor,42.0,Wanita,Surakarta,TikTok,3,95000,Diskon 10%,qris,Selesai,285000
+SEP0570,17/01/2026,SP002,Sandal Outdoor,Outdoor,40.0,Perempuan,surakarta,instagram,1,170000,Diskon 10%,COD ,Selesai,170000
+SEP0571,18/02/2026,SP005,Sandal Sport,Sport,41.0,Laki-laki,Bandung,Instagram,3,150000,Tidak Ada,COD ,Selesai,450000
+SEP0572,02/10/2026,SP007,Sandal Flat,Fashion,38.0,Laki-laki,Karanganyar,instagram,3,100000,Diskon 10%,Transfer,Selesai,300000
+SEP0573,24/04/2026,SP001,Sandal Flat,Fashion,40.0,Pria,Bandung,instagram,2,105000,,E-Wallet,Dikembalikan,210000
+SEP0574,04/08/2026,SP012,Sandal Kids,Kids,44.0,pria,Solo,instagram,1,70000,,QRIS,Selesai,70000
+SEP0575,24/02/2026,SP001,Sandal Flat,Fashion,42.0,pria,Sukoharjo,TikTok,4,95000,Diskon 10%,Transfer,Dibatalkan,380000
+SEP0576,02/03/2026,SP010,Sandal Slide,Casual,38.0,Laki-laki,Bandung,Website,1,115000,,qris,Dikembalikan,115000
+SEP0577,01/08/2026,SP005,Sandal Sport,Sport,43.0,Laki-laki,Surakarta,shopee,3,150000,Tidak Ada,Transfer,Dikembalikan,450000
+SEP0578,23/01/2026,SP010,Sandal Premium,Premium,44.0,Perempuan,Solo,Shopee,2,235000,Tidak Ada,QRIS,Dikembalikan,470000
+SEP0579,26/04/2026,SP003,Sandal Outdoor,Outdoor,43.0,Perempuan,Jakarta,Shopee,1,180000,Voucher,transfer,Dibatalkan,180000
+SEP0580,18/01/2026,SP011,Sandal Everyday,Comfort,42.0,pria,Semarang,instagram,1,105000,Voucher,E-Wallet,Selesai,105000
+SEP0581,28/04/2026,SP009,Sandal Beach,Outdoor,,Wanita,Surakarta,Instagram,3,85000,Tidak Ada,E-Wallet,Selesai,255000
+SEP0582,31/05/2026,SP003,Sandal Casual,Casual,39.0,wanita,Karanganyar,TikTok,2,90000,, QRIS ,Dibatalkan,180000
+SEP0583,03/12/2026,SP010,Sandal Urban,Fashion,38.0,Laki-laki,Sukoharjo,shopee,1,140000,,transfer,Selesai,140000
+SEP0584,01/03/2026,SP003,Sandal Beach,Outdoor,39.0,Perempuan,Solo,instagram,2,90000,Tidak Ada,E-Wallet,Selesai,180000
+SEP0585,18/06/2026,SP005,Sandal Travel,Outdoor,43.0,Pria,Yogyakarta,Tokopedia,1,135000,,qris,Selesai,135000
+SEP0586,23/06/2026,SP006,Sandal Premium,Premium,42.0,Perempuan,surakarta,Website,1,235000,Diskon 10%,COD,Selesai,235000
+SEP0587,13/01/2026,SP001,Sandal Slide,Casual,38.0,pria,Semarang,Tokopedia,5,110000,Voucher,Transfer,Dikembalikan,550000
+SEP0588,03/12/2026,SP001,Sandal Kids,Kids,41.0,pria,Jakarta,shopee,3,85000,Diskon 20%,transfer,Dibatalkan,255000
+SEP0589,04/09/2026,SP009,Sandal Sport,Sport,38.0,Laki-laki,Klaten,Tokopedia,2,155000,Diskon 20%,COD ,Selesai,310000
+SEP0590,05/12/2026,SP011,Sandal Everyday,Comfort,44.0,wanita,Solo,instagram,3,100000,Voucher,COD ,Selesai,300000
+SEP0591,04/09/2026,SP006,Sandal Kids,Kids,42.0,pria,Semarang,shopee,1,70000,,COD ,Selesai,70000
+SEP0592,22/04/2026,SP001,Sandal Casual,Casual,44.0,Laki-laki,Semarang,Shopee,1,90000,,Transfer,Selesai,90000
+SEP0593,07/01/2026,SP008,Sandal Sport,Sport,40.0,Wanita,Surakarta,instagram,3,160000,,COD,Selesai,480000
+SEP0594,03/05/2026,SP005,Sandal Slide,Casual,44.0,Pria,Bandung,Website,1,115000,Diskon 20%,QRIS,Selesai,115000
+SEP0595,04/01/2026,SP009,Sandal Kids,Kids,41.0,Wanita,Surakarta,Instagram,1,80000,Voucher,Transfer,Selesai,80000
+SEP0596,06/03/2026,SP004,Sandal Sport,Sport,41.0,wanita,Sukoharjo,Website,4,155000,,transfer,Dikembalikan,620000
+SEP0597,26/04/2026,SP002,Sandal Sport,Sport,41.0,Laki-laki,Klaten,instagram,3,150000,,E-Wallet,Selesai,450000
+SEP0598,17/06/2026,SP002,Sandal Casual,Casual,38.0,Laki-laki,Surakarta,Shopee,1,80000,Diskon 20%,Transfer,Dikembalikan,80000
+SEP0599,04/11/2026,SP003,Sandal Comfort,Comfort,43.0,wanita,Klaten,shopee,1,120000,,QRIS,Selesai,120000
+SEP0600,06/11/2026,SP009,Sandal Kids,Kids,44.0,Pria,Jakarta,shopee,1,70000,,E-Wallet,Dikembalikan,70000
+SEP0601,06/02/2026,SP008,Sandal Beach,Outdoor,42.0,wanita,Jakarta,Shopee,1,90000,,COD ,Selesai,90000
+SEP0602,19/02/2026,SP004,Sandal Everyday,Comfort,43.0,pria,Jakarta,Shopee,2,110000,Diskon 10%,COD ,Selesai,220000
+SEP0603,24/04/2026,SP011,Sandal Beach,Outdoor,42.0,,Sukoharjo,Website,3,90000,Diskon 20%,QRIS,Selesai,270000
+SEP0604,04/12/2026,SP005,Sandal Casual,Casual,41.0,Pria,Surakarta,Tokopedia,1,85000,Diskon 10%,COD,Selesai,85000
+SEP0605,06/10/2026,SP009,Sandal Slide,Casual,38.0,pria,Yogyakarta,Website,4,115000,Tidak Ada,E-Wallet,Dibatalkan,460000
+SEP0606,20/06/2026,SP001,Sandal Comfort,Comfort,39.0,Pria,Sukoharjo,Shopee,3,130000,Diskon 20%,Transfer,Selesai,390000
+SEP0607,02/07/2026,SP012,Sandal Slide,Casual,44.0,Pria,surakarta,instagram,1,120000,,E-Wallet,Selesai,120000
+SEP0608,22/02/2026,SP011,Sandal Flat,Fashion,38.0,Perempuan,Surakarta,TikTok,1,95000,Tidak Ada,COD,Selesai,95000
+SEP0609,25/05/2026,SP002,Sandal Outdoor,Outdoor,44.0,Pria,Solo,Instagram,3,175000,Diskon 20%,QRIS,Dibatalkan,525000
+SEP0610,01/05/2026,SP006,Sandal Kids,Kids,38.0,Perempuan,Solo,Website,1,75000,,QRIS,Dibatalkan,75000
+SEP0611,15/03/2026,SP010,Sandal Sport,Sport,43.0,Pria,Solo,Shopee,2,150000,,COD,Selesai,300000
+SEP0612,05/12/2026,SP002,Sandal Urban,Fashion,41.0,wanita,Klaten,Instagram,3,140000,Diskon 10%,Transfer,Selesai,420000
+SEP0613,14/05/2026,SP012,Sandal Urban,Fashion,41.0,Perempuan,Bandung,Instagram,3,135000,Tidak Ada,COD,Selesai,405000
+SEP0614,21/06/2026,SP011,Sandal Outdoor,Outdoor,44.0,Perempuan,Semarang,Instagram,2,170000,,qris,Selesai,340000
+SEP0615,06/06/2026,SP010,Sandal Sport,Sport,41.0,Wanita,Solo,Website,3,150000,Diskon 10%,COD,Dibatalkan,450000
+SEP0616,21/04/2026,SP007,Sandal Comfort,Comfort,41.0,pria,Surakarta,TikTok,1,125000,Diskon 20%,transfer,Selesai,125000
+SEP0617,20/03/2026,SP009,Sandal Slide,Casual,42.0,Pria,Sukoharjo,Instagram,1,115000,Diskon 20%,E-Wallet,Dikembalikan,115000
+SEP0618,28/01/2026,SP004,Sandal Travel,Outdoor,40.0,wanita,Klaten,TikTok,1,130000,Voucher,E-Wallet,Selesai,130000
+SEP0619,14/05/2026,SP002,Sandal Comfort,Comfort,44.0,pria,surakarta,Website,2,120000,Voucher,qris,Dibatalkan,240000
+SEP0620,20/05/2026,SP008,Sandal Everyday,Comfort,40.0,Perempuan,Sukoharjo,TikTok,1,110000,Diskon 20%,QRIS,Dibatalkan,110000
+SEP0621,27/01/2026,SP005,Sandal Comfort,Comfort,40.0,Perempuan,Karanganyar,Shopee,1,115000,Tidak Ada,COD,Selesai,115000
+SEP0622,03/05/2026,SP002,Sandal Premium,Premium,39.0,wanita,Semarang,Shopee,1,220000,Diskon 10%,E-Wallet,Dibatalkan,220000
+SEP0623,01/03/2026,SP011,Sandal Flat,Fashion,41.0,Pria,Solo, TikTok ,2,95000,,COD ,Selesai,190000
+SEP0624,06/06/2026,SP009,Sandal Urban,Fashion,44.0,Wanita,Surakarta,Tokopedia,2,150000,Diskon 10%,Transfer,Selesai,300000
+SEP0625,04/04/2026,SP001,Sandal Flat,Fashion,39.0,Pria,Yogyakarta,TikTok,2,90000,Tidak Ada,Transfer,Selesai,180000
+SEP0626,04/04/2026,SP010,Sandal Beach,Outdoor,38.0,wanita,Semarang,Website,1,90000,Diskon 10%,E-Wallet,Dibatalkan,90000
+SEP0627,13/05/2026,SP004,Sandal Comfort,Comfort,41.0,wanita,Karanganyar,TikTok,2,130000,Diskon 20%,transfer,Selesai,260000
+SEP0628,22/02/2026,SP005,Sandal Slide,Casual,39.0,pria,Solo,Instagram,1,110000,Diskon 20%,COD,Selesai,110000
+SEP0629,06/03/2026,SP002,Sandal Travel,Outdoor,41.0,pria,Klaten,Tokopedia,3,135000,Diskon 20%,QRIS,Dikembalikan,405000
+SEP0630,29/03/2026,SP005,Sandal Travel,Outdoor,38.0,Wanita,Karanganyar,Instagram,3,135000,Tidak Ada,QRIS,Dikembalikan,405000
+SEP0631,17/02/2026,SP011,Sandal Comfort,Comfort,42.0,Laki-laki,Surakarta,Tokopedia,1,120000,,transfer,Selesai,120000
+SEP0632,02/08/2026,SP011,Sandal Kids,Kids,39.0,Laki-laki,Solo,shopee,5,70000,Diskon 20%,E-Wallet,Selesai,350000
+SEP0633,06/07/2026,SP006,Sandal Kids,Kids,41.0,Pria,Surakarta,Shopee,5,75000,,COD ,Selesai,375000
+SEP0634,26/02/2026,SP004,Sandal Outdoor,Outdoor,41.0,wanita,Jakarta,Instagram,3,185000,Diskon 20%,COD ,Dikembalikan,555000
+SEP0635,04/11/2026,SP012,Sandal Slide,Casual,38.0,wanita,Surakarta,TikTok,2,120000,,COD ,Selesai,240000
+SEP0636,01/09/2026,SP009,Sandal Beach,Outdoor,42.0,Pria,Yogyakarta,TikTok,2,85000,Diskon 10%,qris,Selesai,170000
+SEP0637,28/06/2026,SP010,Sandal Travel,Outdoor,41.0,wanita,Bandung,Shopee,4,145000,Tidak Ada,E-Wallet,Dibatalkan,580000
+SEP0638,03/02/2026,SP012,Sandal Urban,Fashion,41.0,Laki-laki,Yogyakarta,Shopee,2,135000,,COD,Dibatalkan,270000
+SEP0639,16/04/2026,SP006,Sandal Slide,Casual,44.0,wanita, yogyakarta ,shopee,3,110000,Diskon 20%,Transfer,Selesai,330000
+SEP0640,04/09/2026,SP008,Sandal Comfort,Comfort,39.0,Wanita,Solo,TikTok,1,125000,Diskon 10%,QRIS,Dikembalikan,125000
+SEP0641,28/01/2026,SP001,Sandal Comfort,Comfort,41.0,Laki-laki,Sukoharjo,Tokopedia,1,130000,,E-Wallet,Dibatalkan,130000
+SEP0642,19/02/2026,SP004,Sandal Comfort,Comfort,43.0,Wanita,surakarta,shopee,2,120000,,COD,Selesai,240000
+SEP0643,30/03/2026,SP002,Sandal Travel,Outdoor,38.0,Perempuan,Bandung,Tokopedia,1,135000,Tidak Ada,COD ,Dikembalikan,135000
+SEP0644,03/08/2026,SP006,Sandal Flat,Fashion,41.0,Pria, SURAKARTA ,Instagram,3,95000,Diskon 10%,COD ,Dibatalkan,285000
+SEP0645,16/02/2026,SP012,Sandal Flat,Fashion,44.0,Perempuan, SURAKARTA ,instagram,3,95000,Diskon 10%,transfer,Dibatalkan,285000
+SEP0646,29/06/2026,SP008,Sandal Beach,Outdoor,41.0,Wanita,Klaten,Instagram,1,90000,,transfer,Selesai,90000
+SEP0647,23/04/2026,SP004,Sandal Outdoor,Outdoor,40.0,Laki-laki,Yogyakarta,Tokopedia,1,185000,Diskon 10%,COD ,Selesai,185000
+SEP0648,29/06/2026,SP001,Sandal Sport,Sport,40.0,Wanita,Sukoharjo,TikTok,4,150000,Diskon 10%,COD ,Dikembalikan,600000
+SEP0649,16/01/2026,SP007,Sandal Slide,Casual,44.0,Perempuan,Sukoharjo,Tokopedia,3,105000,,E-Wallet,Selesai,315000
+SEP0650,05/04/2026,SP005,Sandal Premium,Premium,40.0,pria,Karanganyar,Tokopedia,4,230000,,E-Wallet,Dibatalkan,920000
+SEP0651,04/03/2026,SP001,Sandal Kids,Kids,41.0,Perempuan,Sukoharjo,TikTok,1,75000,Tidak Ada,QRIS,Selesai,75000
+SEP0652,23/02/2026,SP012,Sandal Kids,Kids,43.0,Perempuan,Semarang,Instagram,2,85000,,E-Wallet,Selesai,170000
+SEP0653,22/05/2026,SP007,Sandal Slide,Casual,41.0,wanita, SURAKARTA ,Instagram,1,115000,,qris,Selesai,115000
+SEP0654,20/03/2026,SP011,Sandal Slide,Casual,38.0,pria, SURAKARTA ,Tokopedia,3,110000,,COD ,Selesai,330000
+SEP0655,21/05/2026,SP012,Sandal Everyday,Comfort,42.0,pria,Solo,Tokopedia,2,105000,Diskon 10%,COD ,Dikembalikan,210000
+SEP0656,02/08/2026,SP005,Sandal Beach,Outdoor,41.0,pria,Semarang,instagram,4,90000,,COD,Dikembalikan,360000
+SEP0657,14/03/2026,SP001,Sandal Travel,Outdoor,40.0,pria, SURAKARTA ,TikTok,3,135000,Diskon 20%,COD ,Dikembalikan,405000
+SEP0658,15/06/2026,SP010,Sandal Premium,Premium,43.0,pria, SURAKARTA ,Instagram,1,225000,Voucher,QRIS,Dibatalkan,225000
+SEP0659,18/05/2026,SP005,Sandal Slide,Casual,40.0,Wanita,Semarang,shopee,4,115000,,QRIS,Selesai,460000
+SEP0660,29/03/2026,SP012,Sandal Sport,Sport,43.0,Pria,Semarang,Website,1,145000,Diskon 10%,QRIS,Dibatalkan,145000
+SEP0661,06/05/2026,SP011,Sandal Outdoor,Outdoor,41.0,Wanita,Jakarta,instagram,2,185000,,E-Wallet,Selesai,370000
+SEP0662,03/05/2026,SP007,Sandal Travel,Outdoor,42.0,Perempuan,Surakarta,Website,2,135000,Diskon 20%,QRIS,Dibatalkan,270000
+SEP0663,01/11/2026,SP010,Sandal Outdoor,Outdoor,41.0,Laki-laki,Klaten,TikTok,1,185000,Diskon 20%,COD,Selesai,185000
+SEP0664,15/03/2026,SP010,Sandal Everyday,Comfort,,Pria,surakarta,Shopee,3,105000,Voucher,QRIS,Dikembalikan,315000
+SEP0665,01/08/2026,SP007,Sandal Slide,Casual,38.0,wanita,Semarang,instagram,3,120000,Voucher,transfer,Dibatalkan,360000
+SEP0666,18/04/2026,SP004,Sandal Slide,Casual,44.0,Pria,Yogyakarta,Instagram,2,105000,,QRIS,Selesai,210000
+SEP0667,27/05/2026,SP004,Sandal Premium,Premium,39.0,pria,Semarang,Instagram,4,235000,Voucher,transfer,Dibatalkan,940000
+SEP0668,25/02/2026,SP003,Sandal Urban,Fashion,43.0,Wanita,Jakarta,Shopee,1,140000,Voucher,COD,Selesai,140000
+SEP0669,23/03/2026,SP004,Sandal Premium,Premium,42.0,pria,Solo,Website,1,225000,Voucher,E-Wallet,Dibatalkan,225000
+SEP0670,03/05/2026,SP008,Sandal Outdoor,Outdoor,43.0,,Jakarta,TikTok,1,175000,Tidak Ada,QRIS,Selesai,175000
+SEP0671,27/04/2026,SP012,Sandal Sport,Sport,38.0,Laki-laki,Sukoharjo,Instagram,2,155000,,qris,Dikembalikan,310000
+SEP0672,20/06/2026,SP008,Sandal Travel,Outdoor,44.0,Pria,Sukoharjo,TikTok,1,130000,Tidak Ada,Transfer,Selesai,130000
+SEP0673,29/05/2026,SP008,Sandal Everyday,Comfort,42.0,wanita,Karanganyar,instagram,1,105000,Diskon 10%,COD ,Dibatalkan,105000
+SEP0674,01/10/2026,SP009,Sandal Urban,Fashion,39.0,Pria, SURAKARTA ,Shopee,2,140000,,QRIS,Selesai,280000
+SEP0675,02/06/2026,SP001,Sandal Beach,Outdoor,40.0,Pria,Surakarta,instagram,2,90000,,Transfer,Selesai,180000
+SEP0676,31/05/2026,SP001,Sandal Everyday,Comfort,40.0,Laki-laki,surakarta,TikTok,5,110000,Diskon 20%,transfer,Dibatalkan,550000
+SEP0677,30/06/2026,SP006,Sandal Sport,Sport,41.0,Perempuan,Karanganyar,Tokopedia,1,155000,Diskon 10%,qris,Selesai,155000
+SEP0678,01/09/2026,SP002,Sandal Premium,Premium,44.0,Perempuan,Solo,Tokopedia,1,220000,Diskon 10%,transfer,Selesai,220000
+SEP0679,25/04/2026,SP007,Sandal Flat,Fashion,44.0,pria,Surakarta,instagram,4,95000,Diskon 20%, QRIS ,Dibatalkan,380000
+SEP0680,06/09/2026,SP007,Sandal Slide,Casual,39.0,pria,Yogyakarta,Shopee,2,110000,Voucher,QRIS,Selesai,220000
+SEP0681,17/03/2026,SP011,Sandal Comfort,Comfort,39.0,Laki-laki,Semarang,TikTok,1,115000,,QRIS,Dikembalikan,115000
+SEP0682,03/06/2026,SP006,Sandal Slide,Casual,42.0,pria,Bandung,Instagram,3,110000,,qris,Selesai,330000
+SEP0683,13/06/2026,SP003,Sandal Flat,Fashion,40.0,pria,Yogyakarta,shopee,2,100000,Voucher,qris,Selesai,200000
+SEP0684,22/06/2026,SP007,Sandal Travel,Outdoor,41.0,Pria,surakarta,Instagram,5,130000,Tidak Ada,Transfer,Selesai,650000
+SEP0685,31/01/2026,SP012,Sandal Flat,Fashion,39.0,wanita, SURAKARTA ,instagram,1,100000,Tidak Ada,COD,Selesai,100000
+SEP0686,31/03/2026,SP011,Sandal Sport,Sport,39.0,Wanita,Klaten,Instagram,1,150000,,QRIS,Dikembalikan,150000
+SEP0687,13/01/2026,SP006,Sandal Kids,Kids,44.0,wanita,Jakarta,Website,2,75000,Voucher,transfer,Selesai,150000
+SEP0688,22/06/2026,SP011,Sandal Beach,Outdoor,41.0,Perempuan,Sukoharjo,Website,1,90000,Tidak Ada,COD,Selesai,90000
+SEP0689,19/04/2026,SP006,Sandal Flat,Fashion,38.0,Laki-laki,Semarang,shopee,4,95000,,qris,Selesai,380000
+SEP0690,03/10/2026,SP009,Sandal Outdoor,Outdoor,40.0,Pria,Semarang,Website,1,170000,,QRIS,Dibatalkan,170000
+SEP0691,29/03/2026,SP002,Sandal Slide,Casual,41.0,Laki-laki,Yogyakarta,Tokopedia,4,105000,Tidak Ada,QRIS,Dikembalikan,420000
+SEP0692,18/05/2026,SP008,Sandal Sport,Sport,39.0,Perempuan,Solo,Tokopedia,1,150000,,qris,Selesai,150000
+SEP0693,06/12/2026,SP007,Sandal Kids,Kids,43.0,Perempuan,Solo,Shopee,1,80000,,qris,Selesai,80000
+SEP0694,02/05/2026,SP006,Sandal Comfort,Comfort,41.0,pria,Bandung,TikTok,2,115000,,transfer,Dikembalikan,230000
+SEP0695,17/01/2026,SP009,Sandal Flat,Fashion,42.0,Perempuan,Sukoharjo,Website,3,95000,Tidak Ada,Transfer,Selesai,285000
+SEP0696,05/06/2026,SP012,Sandal Flat,Fashion,41.0,pria,Sukoharjo,instagram,2,95000,,E-Wallet,Selesai,190000
+SEP0697,04/02/2026,SP002,Sandal Urban,Fashion,40.0,pria,Karanganyar,instagram,1,150000,Diskon 20%,COD ,Dikembalikan,150000
+SEP0698,28/01/2026,SP003,Sandal Travel,Outdoor,42.0,Pria,Yogyakarta,TikTok,2,130000,,COD ,Selesai,260000
+SEP0699,03/03/2026,SP001,Sandal Beach,Outdoor,40.0,wanita,Karanganyar,instagram,1,85000,Diskon 20%,QRIS,Dibatalkan,85000
+SEP0700,06/06/2026,SP011,Sandal Premium,Premium,44.0,Perempuan,Surakarta,Tokopedia,2,225000,Diskon 20%,qris,Selesai,450000
+SEP0701,17/06/2026,SP011,Sandal Premium,Premium,44.0,Wanita,Sukoharjo,instagram,2,225000,,qris,Selesai,450000
+SEP0702,24/01/2026,SP010,Sandal Casual,Casual,43.0,Laki-laki,Surakarta,instagram,4,80000,Tidak Ada,Transfer,Dikembalikan,320000
+SEP0703,14/06/2026,SP008,Sandal Kids,Kids,41.0,Perempuan,Semarang,Tokopedia,5,75000,Diskon 10%,E-Wallet,Dibatalkan,375000
+SEP0704,01/05/2026,SP011,Sandal Everyday,Comfort,42.0,Laki-laki,Klaten,TikTok,1,100000,,COD,Dikembalikan,100000
+SEP0705,05/09/2026,SP009,Sandal Slide,Casual,44.0,Wanita,Surakarta,Shopee,1,110000,,E-Wallet,Selesai,110000
+SEP0706,18/01/2026,SP010,Sandal Beach,Outdoor,41.0,pria,Karanganyar,Website,1,95000,,Transfer,Dikembalikan,95000
+SEP0707,29/06/2026,SP010,Sandal Premium,Premium,40.0,Laki-laki,Surakarta,Instagram,1,235000,Tidak Ada,COD ,Selesai,235000
+SEP0708,20/03/2026,SP006,Sandal Slide,Casual,40.0,pria,Surakarta,Shopee,3,115000,,QRIS,Dikembalikan,345000
+SEP0709,27/05/2026,SP005,Sandal Comfort,Comfort,40.0,wanita,Karanganyar,instagram,1,120000,Tidak Ada,transfer,Selesai,120000
+SEP0710,06/04/2026,SP011,Sandal Beach,Outdoor,39.0,wanita, yogyakarta ,shopee,1,100000,,E-Wallet,Selesai,100000
+SEP0711,05/05/2026,SP012,Sandal Travel,Outdoor,43.0,wanita,Jakarta,instagram,1,145000,,E-Wallet,Dibatalkan,145000
+SEP0712,13/01/2026,SP003,Sandal Beach,Outdoor,38.0,Perempuan,Bandung, TikTok ,2,90000,Tidak Ada,Transfer,Dikembalikan,180000
+SEP0713,30/03/2026,SP006,Sandal Beach,Outdoor,44.0,Perempuan,Surakarta,Instagram,3,85000,,Transfer,Dikembalikan,255000
+SEP0714,01/09/2026,SP011,Sandal Beach,Outdoor,40.0,Pria,Yogyakarta,Tokopedia,1,90000,,Transfer,Dikembalikan,90000
+SEP0715,30/01/2026,SP007,Sandal Kids,Kids,44.0,Pria,Surakarta,instagram,2,85000,Tidak Ada,E-Wallet,Selesai,170000
+SEP0716,06/02/2026,SP007,Sandal Kids,Kids,39.0,Laki-laki,Semarang,Website,1,80000,Diskon 20%,QRIS,Selesai,80000
+SEP0717,30/06/2026,SP009,Sandal Outdoor,Outdoor,38.0,Pria,Solo,instagram,2,180000,Voucher,QRIS,Dikembalikan,360000
+SEP0718,01/03/2026,SP006,Sandal Premium,Premium,43.0,pria,Klaten,Tokopedia,1,230000,Voucher,E-Wallet,Dikembalikan,230000
+SEP0719,28/05/2026,SP010,Sandal Slide,Casual,43.0,Laki-laki,Yogyakarta,Tokopedia,1,105000,Diskon 20%,QRIS,Selesai,105000
+SEP0720,22/03/2026,SP009,Sandal Beach,Outdoor,38.0,Wanita,Surakarta,shopee,1,90000,Voucher,qris,Selesai,90000
+SEP0721,07/01/2026,SP007,Sandal Slide,Casual,41.0,Laki-laki,Semarang,instagram,1,110000,,qris,Selesai,110000
+SEP0722,23/02/2026,SP009,Sandal Casual,Casual,41.0,Pria,surakarta,Instagram,5,85000,Diskon 10%,E-Wallet,Selesai,425000
+SEP0723,03/02/2026,SP001,Sandal Premium,Premium,41.0,Laki-laki,Semarang,shopee,1,235000,Diskon 20%,Transfer,Selesai,235000
+SEP0724,16/04/2026,SP003,Sandal Everyday,Comfort,44.0,Perempuan,Yogyakarta,Shopee,5,105000,Tidak Ada,COD,Selesai,525000
+SEP0725,07/05/2026,SP009,Sandal Sport,Sport,39.0,Pria,Klaten,Website,2,160000,Tidak Ada,QRIS,Dikembalikan,320000
+SEP0726,06/03/2026,SP001,Sandal Casual,Casual,42.0,wanita,surakarta,shopee,2,95000,,COD ,Dibatalkan,190000
+SEP0727,22/04/2026,SP011,Sandal Flat,Fashion,38.0,Laki-laki, SURAKARTA ,Instagram,5,95000,,transfer,Dikembalikan,475000
+SEP0728,27/06/2026,SP010,Sandal Kids,Kids,40.0,Laki-laki,Surakarta,instagram,1,80000,,QRIS,Selesai,80000
+SEP0729,06/05/2026,SP003,Sandal Everyday,Comfort,42.0,Wanita,surakarta,Website,2,115000,Diskon 10%,QRIS,Selesai,230000
+SEP0730,28/01/2026,SP002,Sandal Flat,Fashion,41.0,wanita,Solo,Tokopedia,1,90000,Voucher,transfer,Selesai,90000
+SEP0731,19/06/2026,SP009,Sandal Sport,Sport,43.0,Laki-laki,Karanganyar,Website,2,145000,Tidak Ada,COD ,Dibatalkan,290000
+SEP0732,06/03/2026,SP004,Sandal Slide,Casual,44.0,Perempuan,Solo,shopee,1,115000,Tidak Ada,COD,Selesai,115000
+SEP0733,03/11/2026,SP011,Sandal Urban,Fashion,39.0,pria,Klaten,TikTok,1,145000,Tidak Ada,transfer,Dikembalikan,145000
+SEP0734,30/04/2026,SP011,Sandal Beach,Outdoor,39.0,Pria,Bandung,Website,2,85000,Voucher,COD,Selesai,170000
+SEP0735,01/07/2026,SP008,Sandal Urban,Fashion,42.0,Laki-laki,Sukoharjo,Website,1,150000,,COD,Selesai,150000
+SEP0736,16/05/2026,SP004,Sandal Premium,Premium,38.0,wanita,Karanganyar,instagram,1,220000,Diskon 10%,E-Wallet,Selesai,220000
+SEP0737,17/01/2026,SP004,Sandal Travel,Outdoor,42.0,,Karanganyar,Website,2,140000,,Transfer,Dibatalkan,280000
+SEP0738,01/01/2026,SP003,Sandal Travel,Outdoor,39.0,pria,Solo,Tokopedia,4,135000,Diskon 20%,transfer,Selesai,540000
+SEP0739,05/12/2026,SP004,Sandal Slide,Casual,40.0,Laki-laki, SURAKARTA ,Website,1,115000,,COD,Dibatalkan,115000
+SEP0740,26/04/2026,SP006,Sandal Casual,Casual,40.0,Wanita,Karanganyar,TikTok,1,90000,Diskon 20%,E-Wallet,Selesai,90000
+SEP0741,24/06/2026,SP012,Sandal Casual,Casual,41.0,Wanita,Solo,instagram,1,80000,,transfer,Selesai,80000
+SEP0742,01/09/2026,SP008,Sandal Outdoor,Outdoor,41.0,Laki-laki,Jakarta,Tokopedia,1,175000,Diskon 20%,transfer,Selesai,175000
+SEP0743,13/02/2026,SP004,Sandal Beach,Outdoor,42.0,pria,Semarang,Website,2,85000,Diskon 20%,transfer,Selesai,170000
+SEP0744,22/06/2026,SP003,Sandal Comfort,Comfort,39.0,Perempuan,Solo,Instagram,1,120000,,transfer,Selesai,120000
+SEP0745,04/02/2026,SP008,Sandal Beach,Outdoor,43.0,pria,Semarang,Shopee,1,85000,,E-Wallet,Selesai,85000
+SEP0746,04/05/2026,SP010,Sandal Flat,Fashion,38.0,Wanita,surakarta,instagram,2,95000,Tidak Ada,transfer,Selesai,190000
+SEP0747,06/01/2026,SP009,Sandal Slide,Casual,,Laki-laki,Solo,Instagram,2,115000,Diskon 10%,qris,Selesai,230000
+SEP0748,16/05/2026,SP007,Sandal Casual,Casual,39.0,Perempuan,Jakarta,instagram,1,85000,,qris,Dibatalkan,85000
+SEP0749,15/02/2026,SP007,Sandal Outdoor,Outdoor,42.0,wanita,Jakarta,Tokopedia,2,175000,Tidak Ada,QRIS,Selesai,350000
+SEP0750,02/03/2026,SP006,Sandal Travel,Outdoor,43.0,wanita,Yogyakarta,Website,1,135000,,Transfer,Dikembalikan,135000
+SEP0751,19/05/2026,SP001,Sandal Kids,Kids,43.0,Perempuan,Klaten,shopee,1,75000,Diskon 10%,qris,Dikembalikan,75000
+SEP0752,19/02/2026,SP002,Sandal Flat,Fashion,40.0,wanita,Klaten,TikTok,2,100000,Tidak Ada,transfer,Dibatalkan,200000
+SEP0753,26/03/2026,SP007,Sandal Urban,Fashion,41.0,Perempuan,Klaten,instagram,2,135000,Diskon 10%,transfer,Selesai,270000
+SEP0754,09/01/2026,SP002,Sandal Beach,Outdoor,42.0,wanita,Yogyakarta,Instagram,1,85000,Voucher,Transfer,Selesai,85000
+SEP0755,18/04/2026,SP007,Sandal Slide,Casual,39.0,Laki-laki, SURAKARTA ,shopee,3,105000,Diskon 10%,E-Wallet,Dikembalikan,315000
+SEP0756,03/11/2026,SP002,Sandal Comfort,Comfort,40.0,wanita, SURAKARTA ,Website,2,130000,Tidak Ada,transfer,Selesai,260000
+SEP0757,01/03/2026,SP004,Sandal Kids,Kids,38.0,wanita,Surakarta,Instagram,1,80000,,qris,Dibatalkan,80000
+SEP0758,25/03/2026,SP002,Sandal Everyday,Comfort,39.0,Perempuan,Surakarta,instagram,1,105000,Tidak Ada,transfer,Dibatalkan,105000
+SEP0759,14/01/2026,SP011,Sandal Outdoor,Outdoor,38.0,Perempuan, SURAKARTA ,shopee,4,175000,Tidak Ada,COD ,Dikembalikan,700000
+SEP0760,17/05/2026,SP009,Sandal Kids,Kids,38.0,pria,Sukoharjo,Website,2,80000,Tidak Ada,COD ,Dikembalikan,160000
+SEP0761,05/05/2026,SP007,Sandal Casual,Casual,39.0,pria,surakarta,TikTok,1,85000,Diskon 10%,qris,Dibatalkan,85000
+SEP0762,24/05/2026,SP007,Sandal Comfort,Comfort,39.0,Laki-laki,Klaten,TikTok,1,120000,Diskon 10%,transfer,Selesai,120000
+SEP0763,01/01/2026,SP009,Sandal Sport,Sport,42.0,Laki-laki, SURAKARTA ,Tokopedia,1,160000,,COD ,Dikembalikan,160000
+SEP0764,26/01/2026,SP001,Sandal Slide,Casual,40.0,Wanita,Klaten,instagram,2,110000,,COD ,Selesai,220000
+SEP0765,13/06/2026,SP001,Sandal Outdoor,Outdoor,41.0,Perempuan,Karanganyar,Shopee,3,175000,,QRIS,Dibatalkan,525000
+SEP0766,25/04/2026,SP007,Sandal Travel,Outdoor,38.0,pria, SURAKARTA ,instagram,1,135000,Voucher,qris,Selesai,135000
+SEP0767,04/01/2026,SP009,Sandal Outdoor,Outdoor,40.0,pria,Karanganyar,Tokopedia,2,180000,Voucher,qris,Selesai,360000
+SEP0768,29/04/2026,SP012,Sandal Urban,Fashion,41.0,wanita,Sukoharjo,instagram,1,140000,,COD ,Selesai,140000
+SEP0769,03/10/2026,SP011,Sandal Beach,Outdoor,41.0,Pria,Bandung,Instagram,2,95000,,qris,Selesai,190000
+SEP0770,05/03/2026,SP001,Sandal Sport,Sport,44.0,wanita,Solo,shopee,1,155000,Diskon 20%,Transfer,Dibatalkan,155000
+SEP0771,07/01/2026,SP004,Sandal Everyday,Comfort,40.0,Pria,Yogyakarta,TikTok,1,115000,,E-Wallet,Dikembalikan,115000
+SEP0772,03/08/2026,SP003,Sandal Flat,Fashion,42.0,Wanita,Klaten,Tokopedia,5,100000,Tidak Ada,qris,Selesai,500000
+SEP0773,23/01/2026,SP009,Sandal Comfort,Comfort,40.0,Pria,Jakarta,shopee,1,120000,Tidak Ada,E-Wallet,Selesai,120000
+SEP0774,01/03/2026,SP009,Sandal Urban,Fashion,44.0,Laki-laki,Sukoharjo,TikTok,2,135000,Diskon 10%,Transfer,Selesai,270000
+SEP0775,20/02/2026,SP003,Sandal Premium,Premium,40.0,Laki-laki,Jakarta,Website,1,230000,Tidak Ada,E-Wallet,Selesai,230000
+SEP0776,03/06/2026,SP009,Sandal Everyday,Comfort,41.0,Wanita,Yogyakarta,Shopee,3,110000,Diskon 10%, QRIS ,Selesai,330000
+SEP0777,02/02/2026,SP007,Sandal Kids,Kids,42.0,Laki-laki, SURAKARTA ,Instagram,3,75000,Diskon 20%,COD ,Dibatalkan,225000
+SEP0778,02/03/2026,SP001,Sandal Beach,Outdoor,42.0,Laki-laki, SURAKARTA ,Instagram,1,90000,,QRIS,Selesai,90000
+SEP0779,02/11/2026,SP002,Sandal Urban,Fashion,41.0,pria,Sukoharjo,TikTok,1,150000,,E-Wallet,Dibatalkan,150000
+SEP0780,16/06/2026,SP006,Sandal Kids,Kids,42.0,Perempuan,Karanganyar,Shopee,1,85000,Tidak Ada,Transfer,Selesai,85000
+SEP0781,25/03/2026,SP004,Sandal Sport,Sport,42.0,Perempuan, yogyakarta ,Website,2,160000,Tidak Ada,QRIS,Selesai,320000
+SEP0782,02/05/2026,SP008,Sandal Comfort,Comfort,44.0,Perempuan,Bandung,instagram,3,130000,Diskon 10%,COD,Dibatalkan,390000
+SEP0783,19/05/2026,SP002,Sandal Casual,Casual,38.0,wanita,surakarta,Instagram,3,90000,,E-Wallet,Selesai,270000
+SEP0784,22/05/2026,SP009,Sandal Flat,Fashion,43.0,Wanita,Klaten,instagram,1,95000,Diskon 20%,transfer,Selesai,95000
+SEP0785,04/10/2026,SP006,Sandal Premium,Premium,41.0,wanita, SURAKARTA ,Website,3,225000,Voucher,COD ,Dibatalkan,675000
+SEP0786,26/01/2026,SP007,Sandal Casual,Casual,40.0,Wanita,Bandung,Instagram,1,85000,Tidak Ada,COD ,Selesai,85000
+SEP0787,25/04/2026,SP008,Sandal Sport,Sport,40.0,Pria, SURAKARTA ,instagram,5,150000,Voucher,Transfer,Selesai,750000
+SEP0788,01/04/2026,SP003,Sandal Kids,Kids,41.0,Perempuan,Bandung,Shopee,1,85000,Diskon 20%,qris,Selesai,85000
+SEP0789,18/05/2026,SP009,Sandal Everyday,Comfort,41.0,Pria,Bandung,TikTok,2,100000,Diskon 20%,COD ,Selesai,200000
+SEP0790,21/06/2026,SP004,Sandal Kids,Kids,43.0,Wanita, SURAKARTA ,TikTok,2,75000,,transfer,Selesai,150000
+SEP0791,05/06/2026,SP001,Sandal Outdoor,Outdoor,41.0,Laki-laki,Bandung,shopee,3,175000,,qris,Selesai,525000
+SEP0792,18/04/2026,SP011,Sandal Travel,Outdoor,40.0,pria,Klaten,Website,1,135000,Tidak Ada,COD ,Selesai,135000
+SEP0793,21/01/2026,SP002,Sandal Beach,Outdoor,40.0,Laki-laki, SURAKARTA ,Website,1,85000,Voucher,E-Wallet,Selesai,85000
+SEP0794,02/08/2026,SP002,Sandal Beach,Outdoor,40.0,Wanita,Semarang,Tokopedia,4,95000,Tidak Ada,E-Wallet,Dikembalikan,380000
+SEP0795,04/01/2026,SP006,Sandal Slide,Casual,43.0,Perempuan,Bandung,Instagram,1,110000,Tidak Ada,transfer,Selesai,110000
+SEP0796,02/08/2026,SP012,Sandal Slide,Casual,41.0,Laki-laki,Klaten,instagram,1,110000,,COD,Selesai,110000
+SEP0797,03/09/2026,SP011,Sandal Slide,Casual,39.0,Perempuan, SURAKARTA ,Instagram,1,110000,Voucher,QRIS,Dikembalikan,110000
+SEP0798,01/08/2026,SP001,Sandal Slide,Casual,44.0,pria,Sukoharjo,TikTok,2,110000,Diskon 10%,qris,Dibatalkan,220000
+SEP0799,13/02/2026,SP007,Sandal Urban,Fashion,39.0,wanita,surakarta,TikTok,2,150000,Voucher,transfer,Selesai,300000
+SEP0800,23/03/2026,SP003,Sandal Travel,Outdoor,40.0,wanita,Jakarta,instagram,5,140000,Diskon 20%,E-Wallet,Selesai,700000
+SEP0801,14/02/2026,SP008,Sandal Flat,Fashion,42.0,Wanita,Surakarta, TikTok ,2,100000,,QRIS,Dibatalkan,200000
+SEP0802,15/04/2026,SP011,Sandal Travel,Outdoor,40.0,wanita,Solo,Shopee,3,140000,,Transfer,Selesai,420000
+SEP0803,15/05/2026,SP011,Sandal Slide,Casual,42.0,pria,surakarta,TikTok,2,105000,Voucher,E-Wallet,Dibatalkan,210000
+SEP0804,02/06/2026,SP001,Sandal Flat,Fashion,38.0,,Bandung,Website,1,95000,Diskon 10%,E-Wallet,Selesai,95000
+SEP0805,24/06/2026,SP002,Sandal Casual,Casual,39.0,Laki-laki,Surakarta,shopee,1,85000,Tidak Ada,E-Wallet,Dibatalkan,85000
+SEP0806,21/04/2026,SP008,Sandal Beach,Outdoor,39.0,Wanita,Klaten,Tokopedia,1,85000,Voucher,COD,Selesai,85000
+SEP0807,19/02/2026,SP001,Sandal Travel,Outdoor,41.0,Laki-laki,Sukoharjo,Website,1,130000,Voucher,COD,Selesai,130000
+SEP0808,22/04/2026,SP009,Sandal Sport,Sport,44.0,Perempuan,surakarta,Shopee,3,150000,Diskon 20%,Transfer,Selesai,450000
+SEP0809,17/05/2026,SP012,Sandal Casual,Casual,39.0,Laki-laki,Karanganyar,Website,1,90000,Voucher,QRIS,Dibatalkan,90000
+SEP0810,19/02/2026,SP003,Sandal Travel,Outdoor,44.0,Laki-laki,Yogyakarta,Website,1,135000,Diskon 20%,transfer,Selesai,135000
+SEP0811,06/09/2026,SP006,Sandal Slide,Casual,42.0,Wanita,surakarta,instagram,2,105000,Voucher,COD,Selesai,210000
+SEP0812,02/02/2026,SP005,Sandal Flat,Fashion,42.0,Perempuan,Jakarta,instagram,1,100000,,qris,Selesai,100000
+SEP0813,06/12/2026,SP002,Sandal Travel,Outdoor,39.0,pria,Klaten,TikTok,2,145000,Voucher,transfer,Selesai,290000
+SEP0814,02/05/2026,SP004,Sandal Outdoor,Outdoor,44.0,Wanita,Semarang,shopee,3,185000,Diskon 10%,COD ,Selesai,555000
+SEP0815,04/07/2026,SP009,Sandal Slide,Casual,38.0,Pria,Sukoharjo,Instagram,1,115000,,E-Wallet,Dibatalkan,115000
+SEP0816,22/03/2026,SP009,Sandal Flat,Fashion,40.0,Laki-laki,Semarang,instagram,5,95000,Tidak Ada,E-Wallet,Selesai,475000
+SEP0817,16/06/2026,SP007,Sandal Kids,Kids,38.0,Laki-laki,Jakarta,Shopee,1,80000,Diskon 10%,qris,Dikembalikan,80000
+SEP0818,20/04/2026,SP010,Sandal Everyday,Comfort,39.0,pria, SURAKARTA ,shopee,2,100000,Voucher,COD,Selesai,200000
+SEP0819,20/03/2026,SP009,Sandal Premium,Premium,42.0,wanita,Semarang,instagram,1,220000,Diskon 20%,qris,Dikembalikan,220000
+SEP0820,22/02/2026,SP006,Sandal Flat,Fashion,40.0,Laki-laki,Solo,shopee,3,95000,Tidak Ada,qris,Dikembalikan,285000
+SEP0821,15/06/2026,SP001,Sandal Outdoor,Outdoor,40.0,pria,Semarang,Shopee,2,170000,Voucher,COD ,Dibatalkan,340000
+SEP0822,01/09/2026,SP004,Sandal Urban,Fashion,42.0,wanita,surakarta,Shopee,3,135000,Diskon 20%,E-Wallet,Selesai,405000
+SEP0823,01/08/2026,SP006,Sandal Casual,Casual,42.0,Perempuan, SURAKARTA ,shopee,2,95000,Diskon 10%,COD ,Selesai,190000
+SEP0824,05/02/2026,SP003,Sandal Premium,Premium,38.0,wanita, SURAKARTA ,instagram,2,225000,Diskon 20%,E-Wallet,Dibatalkan,450000
+SEP0825,31/05/2026,SP011,Sandal Comfort,Comfort,41.0,Laki-laki,Yogyakarta,Website,4,120000,Voucher,Transfer,Selesai,480000
+SEP0826,21/06/2026,SP004,Sandal Everyday,Comfort,41.0,Laki-laki,Sukoharjo,Website,1,105000,,Transfer,Selesai,105000
+SEP0827,24/05/2026,SP002,Sandal Everyday,Comfort,43.0,Perempuan,Solo,Tokopedia,1,115000,Voucher,E-Wallet,Selesai,115000
+SEP0828,24/04/2026,SP011,Sandal Beach,Outdoor,44.0,Wanita,surakarta,Instagram,1,90000,Diskon 10%,Transfer,Dikembalikan,90000
+SEP0829,29/03/2026,SP007,Sandal Beach,Outdoor,44.0,Perempuan,Solo,shopee,5,90000,,Transfer,Dibatalkan,450000
+SEP0830,20/01/2026,SP011,Sandal Kids,Kids,,wanita,surakarta,Tokopedia,1,75000,Tidak Ada,qris,Dikembalikan,75000
+SEP0831,07/01/2026,SP003,Sandal Beach,Outdoor,42.0,pria,Jakarta,instagram,1,100000,Diskon 10%,E-Wallet,Dikembalikan,100000
+SEP0832,18/05/2026,SP012,Sandal Kids,Kids,38.0,pria,Yogyakarta,Tokopedia,4,75000,Voucher,qris,Dibatalkan,300000
+SEP0833,16/05/2026,SP008,Sandal Flat,Fashion,39.0,Perempuan,Yogyakarta,TikTok,1,90000,,COD,Dikembalikan,90000
+SEP0834,02/05/2026,SP012,Sandal Travel,Outdoor,44.0,pria,Jakarta,instagram,1,135000,Diskon 10%,QRIS,Selesai,135000
+SEP0835,05/02/2026,SP008,Sandal Urban,Fashion,43.0,Pria,Sukoharjo,Instagram,2,140000,Voucher,QRIS,Dibatalkan,280000
+SEP0836,01/01/2026,SP006,Sandal Comfort,Comfort,44.0,Laki-laki, SURAKARTA ,shopee,1,130000,Tidak Ada,Transfer,Selesai,130000
+SEP0837,13/02/2026,SP003,Sandal Kids,Kids,39.0,Laki-laki,Karanganyar,TikTok,2,75000,Voucher,QRIS,Selesai,150000
+SEP0838,01/10/2026,SP012,Sandal Kids,Kids,41.0,wanita,Sukoharjo,TikTok,1,80000,Diskon 10%,COD,Dibatalkan,80000
+SEP0839,02/03/2026,SP012,Sandal Urban,Fashion,42.0,Wanita,Jakarta,TikTok,1,140000,Diskon 10%,transfer,Dibatalkan,140000
+SEP0840,27/06/2026,SP002,Sandal Slide,Casual,43.0,wanita,Yogyakarta,Instagram,1,115000,,Transfer,Selesai,115000
+SEP0841,20/03/2026,SP001,Sandal Travel,Outdoor,39.0,pria,Yogyakarta,instagram,1,145000,Voucher,transfer,Dibatalkan,145000
+SEP0842,13/05/2026,SP007,Sandal Slide,Casual,42.0,Perempuan,Klaten,Shopee,1,105000,,COD,Selesai,105000
+SEP0843,19/02/2026,SP005,Sandal Beach,Outdoor,41.0,Wanita,Solo,Shopee,2,100000,,transfer,Selesai,200000
+SEP0844,05/05/2026,SP003,Sandal Slide,Casual,43.0,Perempuan,Karanganyar,Website,3,110000,,QRIS,Selesai,330000
+SEP0845,02/01/2026,SP005,Sandal Slide,Casual,41.0,wanita,Sukoharjo,shopee,1,110000,Diskon 10%,Transfer,Dikembalikan,110000
+SEP0846,05/05/2026,SP010,Sandal Sport,Sport,42.0,Perempuan, SURAKARTA ,TikTok,2,150000,,COD,Selesai,300000
+SEP0847,21/02/2026,SP003,Sandal Comfort,Comfort,44.0,Pria,Yogyakarta,Shopee,2,125000,,COD ,Selesai,250000
+SEP0848,24/06/2026,SP009,Sandal Kids,Kids,40.0,Perempuan,Bandung,shopee,1,70000,,E-Wallet,Selesai,70000
+SEP0849,03/08/2026,SP008,Sandal Sport,Sport,40.0,Wanita,Klaten,Website,1,150000,Diskon 10%,transfer,Selesai,150000
+SEP0850,05/02/2026,SP004,Sandal Flat,Fashion,42.0,pria,Yogyakarta,instagram,1,100000,,QRIS,Selesai,100000
+SEP0851,22/01/2026,SP006,Sandal Kids,Kids,44.0,Wanita,Solo,Shopee,1,70000,Diskon 10%,Transfer,Dikembalikan,70000
+SEP0852,17/02/2026,SP005,Sandal Kids,Kids,44.0,pria, yogyakarta ,instagram,4,85000,Diskon 20%,Transfer,Selesai,340000
+SEP0853,15/03/2026,SP003,Sandal Premium,Premium,44.0,Wanita,Solo,Instagram,1,225000,Diskon 20%,transfer,Selesai,225000
+SEP0854,22/04/2026,SP008,Sandal Beach,Outdoor,43.0,Wanita,Karanganyar,shopee,3,95000,Diskon 20%,QRIS,Selesai,285000
+SEP0855,23/02/2026,SP010,Sandal Comfort,Comfort,43.0,Laki-laki,Semarang,TikTok,2,130000,Tidak Ada,E-Wallet,Dikembalikan,260000
+SEP0856,01/11/2026,SP001,Sandal Urban,Fashion,39.0,wanita, SURAKARTA ,TikTok,2,135000,,QRIS,Dikembalikan,270000
+SEP0857,04/10/2026,SP006,Sandal Outdoor,Outdoor,44.0,wanita,Jakarta,instagram,1,185000,Voucher,Transfer,Selesai,185000
+SEP0858,19/05/2026,SP005,Sandal Casual,Casual,41.0,Perempuan,Klaten,Website,1,80000,,COD,Dikembalikan,80000
+SEP0859,01/08/2026,SP012,Sandal Travel,Outdoor,44.0,Pria,Yogyakarta,instagram,2,130000,,qris,Selesai,260000
+SEP0860,05/05/2026,SP009,Sandal Outdoor,Outdoor,42.0,Wanita,Sukoharjo,Shopee,1,170000,Voucher,COD ,Selesai,170000
+SEP0861,06/12/2026,SP012,Sandal Outdoor,Outdoor,41.0,Wanita,Semarang,shopee,2,170000,,QRIS,Selesai,340000
+SEP0862,13/03/2026,SP006,Sandal Premium,Premium,41.0,Perempuan,Yogyakarta,Website,2,220000,,transfer,Selesai,440000
+SEP0863,31/05/2026,SP002,Sandal Kids,Kids,41.0,Perempuan,Solo,Website,2,75000,,E-Wallet,Selesai,150000
+SEP0864,29/05/2026,SP004,Sandal Kids,Kids,39.0,Wanita,Solo,instagram,2,75000,Voucher,qris,Selesai,150000
+SEP0865,02/08/2026,SP009,Sandal Sport,Sport,40.0,Wanita,Klaten,TikTok,1,145000,,qris,Selesai,145000
+SEP0866,30/06/2026,SP010,Sandal Kids,Kids,41.0,pria, SURAKARTA ,Shopee,4,70000,Diskon 20%,COD,Selesai,280000
+SEP0867,13/05/2026,SP008,Sandal Outdoor,Outdoor,39.0,Wanita,Jakarta,Tokopedia,1,180000,Diskon 20%,Transfer,Dibatalkan,180000
+SEP0868,20/05/2026,SP010,Sandal Flat,Fashion,44.0,wanita, SURAKARTA ,shopee,2,90000,Diskon 10%,COD,Selesai,180000
+SEP0869,21/06/2026,SP011,Sandal Everyday,Comfort,40.0,Perempuan,Jakarta,TikTok,4,100000,Diskon 20%,COD,Selesai,400000
+SEP0870,27/02/2026,SP005,Sandal Travel,Outdoor,38.0,wanita,Jakarta,instagram,1,145000,,E-Wallet,Dibatalkan,145000
+SEP0871,20/06/2026,SP007,Sandal Sport,Sport,42.0,,Jakarta,Shopee,1,145000,,Transfer,Selesai,145000
+SEP0872,26/03/2026,SP007,Sandal Kids,Kids,44.0,wanita,Surakarta,shopee,1,80000,Diskon 10%,E-Wallet,Selesai,80000
+SEP0873,13/04/2026,SP008,Sandal Beach,Outdoor,42.0,Wanita,Klaten,instagram,1,85000,, QRIS ,Dikembalikan,85000
+SEP0874,15/05/2026,SP001,Sandal Slide,Casual,44.0,wanita,Klaten,Tokopedia,1,110000,,transfer,Selesai,110000
+SEP0875,16/04/2026,SP003,Sandal Slide,Casual,41.0,Perempuan,Jakarta,Instagram,2,120000,Tidak Ada,QRIS,Selesai,240000
+SEP0876,04/05/2026,SP008,Sandal Beach,Outdoor,40.0,Pria,Karanganyar,Instagram,1,90000,Diskon 20%,qris,Dibatalkan,90000
+SEP0877,19/02/2026,SP002,Sandal Premium,Premium,41.0,pria,Semarang,shopee,1,230000,Diskon 20%,qris,Selesai,230000
+SEP0878,06/08/2026,SP002,Sandal Kids,Kids,44.0,wanita,Klaten,Website,2,75000,,transfer,Dikembalikan,150000
+SEP0879,15/03/2026,SP010,Sandal Urban,Fashion,41.0,Laki-laki,Surakarta,instagram,5,140000,Diskon 20%,transfer,Dikembalikan,700000
+SEP0880,15/06/2026,SP001,Sandal Everyday,Comfort,42.0,Wanita,Karanganyar,Website,2,100000,,Transfer,Dikembalikan,200000
+SEP0881,30/06/2026,SP003,Sandal Kids,Kids,40.0,Laki-laki,Solo,Tokopedia,1,75000,Diskon 10%,COD ,Selesai,75000
+SEP0882,31/03/2026,SP011,Sandal Outdoor,Outdoor,43.0,Wanita,Sukoharjo,Tokopedia,2,180000,Voucher,transfer,Dibatalkan,360000
+SEP0883,22/01/2026,SP007,Sandal Sport,Sport,42.0,Wanita, SURAKARTA ,Tokopedia,1,145000,Tidak Ada,transfer,Selesai,145000
+SEP0884,04/05/2026,SP007,Sandal Urban,Fashion,44.0,wanita,Sukoharjo,instagram,2,140000,,qris,Dibatalkan,280000
+SEP0885,29/05/2026,SP012,Sandal Kids,Kids,44.0,pria,Klaten,instagram,1,70000,Diskon 20%,transfer,Selesai,70000
+SEP0886,06/11/2026,SP001,Sandal Everyday,Comfort,41.0,Pria,Klaten,instagram,1,105000,Diskon 10%,Transfer,Selesai,105000
+SEP0887,26/05/2026,SP008,Sandal Sport,Sport,43.0,Pria,Jakarta,Instagram,1,160000,Voucher,Transfer,Dikembalikan,160000
+SEP0888,26/03/2026,SP001,Sandal Everyday,Comfort,44.0,Wanita,Bandung,instagram,2,115000,Diskon 10%,COD,Dibatalkan,230000
+SEP0889,21/05/2026,SP011,Sandal Sport,Sport,43.0,wanita,Klaten,instagram,3,155000,Voucher,transfer,Selesai,465000
+SEP0890,13/05/2026,SP003,Sandal Sport,Sport,44.0,Laki-laki,Solo, TikTok ,4,155000,Diskon 10%,qris,Dibatalkan,620000
+SEP0891,05/10/2026,SP010,Sandal Beach,Outdoor,40.0,Wanita,Solo,Shopee,3,100000,Diskon 10%,QRIS,Dibatalkan,300000
+SEP0892,18/06/2026,SP006,Sandal Urban,Fashion,38.0,Laki-laki,Klaten,shopee,2,135000,,Transfer,Selesai,270000
+SEP0893,02/05/2026,SP004,Sandal Casual,Casual,43.0,Wanita,Surakarta,TikTok,1,90000,Tidak Ada,Transfer,Dibatalkan,90000
+SEP0894,15/06/2026,SP007,Sandal Beach,Outdoor,40.0,Laki-laki,Semarang,instagram,1,95000,,QRIS,Dikembalikan,95000
+SEP0895,28/01/2026,SP007,Sandal Casual,Casual,40.0,Pria, SURAKARTA ,Tokopedia,2,80000,Tidak Ada,qris,Dikembalikan,160000
+SEP0896,02/11/2026,SP009,Sandal Flat,Fashion,38.0,Pria,Sukoharjo,shopee,1,90000,Diskon 20%,E-Wallet,Selesai,90000
+SEP0897,13/05/2026,SP004,Sandal Flat,Fashion,42.0,wanita,Surakarta,instagram,2,95000,Tidak Ada,Transfer,Selesai,190000
+SEP0898,01/03/2026,SP001,Sandal Sport,Sport,44.0,Perempuan,Solo,Tokopedia,1,155000,Diskon 20%,QRIS,Selesai,155000
+SEP0899,28/04/2026,SP009,Sandal Sport,Sport,44.0,Perempuan,Klaten,TikTok,2,150000,Diskon 10%,qris,Selesai,300000
+SEP0900,05/08/2026,SP001,Sandal Flat,Fashion,41.0,pria,Sukoharjo,TikTok,1,95000,Diskon 10%,Transfer,Dikembalikan,95000
+SEP0901,02/01/2026,SP006,Sandal Kids,Kids,44.0,Laki-laki,Yogyakarta,Shopee,1,70000,Diskon 10%,qris,Selesai,70000
+SEP0902,04/12/2026,SP012,Sandal Everyday,Comfort,39.0,Perempuan,surakarta,Instagram,2,100000,,QRIS,Selesai,200000
+SEP0903,04/11/2026,SP006,Sandal Slide,Casual,39.0,Pria,Solo,Website,1,105000,,Transfer,Selesai,105000
+SEP0904,03/11/2026,SP008,Sandal Sport,Sport,40.0,Pria,surakarta,instagram,3,150000,Diskon 10%,transfer,Selesai,450000
+SEP0905,14/04/2026,SP007,Sandal Travel,Outdoor,44.0,Wanita,Klaten,Website,1,130000,,QRIS,Selesai,130000
+SEP0906,01/02/2026,SP009,Sandal Sport,Sport,43.0,Pria,Solo,shopee,3,150000,,transfer,Selesai,450000
+SEP0907,30/01/2026,SP004,Sandal Sport,Sport,40.0,pria,Solo,Shopee,3,160000,Tidak Ada,E-Wallet,Selesai,480000
+SEP0908,04/06/2026,SP003,Sandal Everyday,Comfort,40.0,wanita,Surakarta,Website,1,105000,,E-Wallet,Selesai,105000
+SEP0909,30/01/2026,SP011,Sandal Casual,Casual,39.0,Perempuan,Sukoharjo,instagram,2,80000,,qris,Selesai,160000
+SEP0910,03/04/2026,SP007,Sandal Sport,Sport,43.0,Pria,surakarta,shopee,1,145000,Diskon 10%,QRIS,Dikembalikan,145000
+SEP0911,06/10/2026,SP002,Sandal Beach,Outdoor,43.0,wanita,Semarang,Tokopedia,4,90000,,qris,Dikembalikan,360000
+SEP0912,02/04/2026,SP010,Sandal Sport,Sport,40.0,Wanita,Klaten,TikTok,4,145000,Diskon 20%,QRIS,Selesai,580000
+SEP0913,17/06/2026,SP008,Sandal Premium,Premium,,wanita,Yogyakarta,Instagram,3,225000,Diskon 20%,E-Wallet,Dibatalkan,675000
+SEP0914,29/01/2026,SP011,Sandal Beach,Outdoor,44.0,wanita,Bandung,TikTok,1,85000,Diskon 10%,COD,Dikembalikan,85000
+SEP0915,24/03/2026,SP005,Sandal Urban,Fashion,41.0,pria, SURAKARTA ,TikTok,1,135000,Diskon 10%,COD ,Selesai,135000
+SEP0916,20/01/2026,SP012,Sandal Travel,Outdoor,43.0,Wanita,Surakarta,Instagram,2,135000,Diskon 10%,COD,Dibatalkan,270000
+SEP0917,24/05/2026,SP005,Sandal Kids,Kids,41.0,wanita,Semarang,Shopee,2,75000,Diskon 20%,E-Wallet,Selesai,150000
+SEP0918,22/05/2026,SP004,Sandal Casual,Casual,38.0,Laki-laki,Sukoharjo,Instagram,5,90000,Tidak Ada,Transfer,Selesai,450000
+SEP0919,15/01/2026,SP006,Sandal Flat,Fashion,44.0,wanita,surakarta,Shopee,2,95000,Diskon 10%,Transfer,Dikembalikan,190000
+SEP0920,22/01/2026,SP008,Sandal Outdoor,Outdoor,43.0,Pria,Solo,Tokopedia,2,180000,,Transfer,Dibatalkan,360000
+SEP0921,19/01/2026,SP007,Sandal Kids,Kids,42.0,Laki-laki,Jakarta,shopee,1,70000,Voucher,Transfer,Selesai,70000
+SEP0922,13/03/2026,SP011,Sandal Slide,Casual,40.0,pria,Semarang,instagram,1,115000,Voucher,Transfer,Selesai,115000
+SEP0923,05/11/2026,SP005,Sandal Kids,Kids,44.0,Wanita, yogyakarta ,TikTok,5,80000,Diskon 10%,COD,Selesai,400000
+SEP0924,25/04/2026,SP012,Sandal Comfort,Comfort,41.0,Pria,Karanganyar,Tokopedia,1,115000,Diskon 10%,Transfer,Selesai,115000
+SEP0925,21/03/2026,SP005,Sandal Travel,Outdoor,43.0,Pria,Surakarta,Tokopedia,2,135000,Voucher,qris,Selesai,270000
+SEP0926,13/06/2026,SP012,Sandal Beach,Outdoor,43.0,Laki-laki,Solo,Shopee,2,90000,Diskon 10%,transfer,Selesai,180000
+SEP0927,07/01/2026,SP007,Sandal Everyday,Comfort,41.0,Perempuan,Yogyakarta,Shopee,3,105000,Voucher,COD ,Selesai,315000
+SEP0928,12/06/2026,SP010,Sandal Premium,Premium,44.0,Perempuan,Sukoharjo,Website,1,235000,,E-Wallet,Dikembalikan,235000
+SEP0929,03/04/2026,SP012,Sandal Sport,Sport,38.0,pria,Semarang,TikTok,3,150000,Tidak Ada,COD ,Selesai,450000
+SEP0930,31/01/2026,SP012,Sandal Slide,Casual,38.0,pria,Semarang,Instagram,2,105000,,COD ,Dikembalikan,210000
+SEP0931,13/01/2026,SP010,Sandal Sport,Sport,40.0,pria,Yogyakarta,instagram,2,145000,Diskon 20%,E-Wallet,Selesai,290000
+SEP0932,03/09/2026,SP002,Sandal Everyday,Comfort,38.0,Laki-laki,Bandung,TikTok,2,105000,Voucher,QRIS,Selesai,210000
+SEP0933,24/02/2026,SP005,Sandal Kids,Kids,39.0,wanita,Solo,shopee,3,80000,Diskon 20%,COD,Selesai,240000
+SEP0934,13/01/2026,SP003,Sandal Casual,Casual,44.0,Pria,surakarta,TikTok,1,90000,Diskon 10%,transfer,Dibatalkan,90000
+SEP0935,23/04/2026,SP003,Sandal Travel,Outdoor,41.0,wanita,Karanganyar,instagram,2,130000,Tidak Ada,QRIS,Dikembalikan,260000
+SEP0936,04/01/2026,SP002,Sandal Casual,Casual,42.0,Perempuan,Karanganyar,Website,2,95000,Diskon 10%,transfer,Dibatalkan,190000
+SEP0937,14/01/2026,SP009,Sandal Casual,Casual,41.0,pria,Surakarta,TikTok,1,80000,Voucher,COD,Selesai,80000
+SEP0938,18/05/2026,SP010,Sandal Comfort,Comfort,38.0,,Semarang,shopee,1,120000,Tidak Ada,transfer,Dibatalkan,120000
+SEP0939,26/05/2026,SP001,Sandal Slide,Casual,40.0,Laki-laki,Semarang,Instagram,3,120000,,transfer,Selesai,360000
+SEP0940,18/01/2026,SP004,Sandal Urban,Fashion,44.0,pria,Bandung,Website,1,145000,Diskon 20%,QRIS,Selesai,145000
+SEP0941,27/01/2026,SP006,Sandal Everyday,Comfort,43.0,Laki-laki,Klaten,instagram,5,110000,,COD,Dikembalikan,550000
+SEP0942,27/02/2026,SP012,Sandal Everyday,Comfort,42.0,Pria,surakarta,shopee,1,100000,Diskon 20%,E-Wallet,Selesai,100000
+SEP0943,18/06/2026,SP010,Sandal Flat,Fashion,42.0,Wanita,Surakarta,Website,1,95000,Voucher,QRIS,Dikembalikan,95000
+SEP0944,26/03/2026,SP011,Sandal Slide,Casual,41.0,Perempuan,surakarta,Instagram,4,115000,,E-Wallet,Selesai,460000
+SEP0945,04/01/2026,SP012,Sandal Casual,Casual,40.0,Pria,Karanganyar,instagram,3,95000,,Transfer,Dikembalikan,285000
+SEP0946,16/04/2026,SP006,Sandal Sport,Sport,42.0,Laki-laki,Jakarta,TikTok,4,150000,,Transfer,Selesai,600000
+SEP0947,02/08/2026,SP004,Sandal Kids,Kids,41.0,pria,Yogyakarta,Tokopedia,2,85000,,COD ,Selesai,170000
+SEP0948,30/04/2026,SP009,Sandal Outdoor,Outdoor,43.0,Laki-laki,surakarta,Website,2,185000,,qris,Selesai,370000
+SEP0949,05/04/2026,SP003,Sandal Comfort,Comfort,44.0,wanita,Bandung,Instagram,2,120000,Diskon 20%,COD ,Selesai,240000
+SEP0950,05/07/2026,SP003,Sandal Premium,Premium,38.0,Perempuan,Sukoharjo,Instagram,3,225000,Voucher,COD,Selesai,675000
+SEP0951,05/01/2026,SP011,Sandal Beach,Outdoor,38.0,Laki-laki,Sukoharjo,Shopee,2,100000,Diskon 20%,QRIS,Selesai,200000
+SEP0952,19/02/2026,SP002,Sandal Premium,Premium,40.0,Pria,Sukoharjo,TikTok,2,235000,Tidak Ada,transfer,Selesai,470000
+SEP0953,04/11/2026,SP011,Sandal Outdoor,Outdoor,38.0,Pria,Semarang,shopee,2,170000,Diskon 10%,QRIS,Selesai,340000
+SEP0954,31/03/2026,SP006,Sandal Sport,Sport,42.0,wanita,Sukoharjo,instagram,5,150000,Diskon 20%,COD ,Dikembalikan,750000
+SEP0955,16/01/2026,SP010,Sandal Outdoor,Outdoor,41.0,Wanita,Klaten,instagram,1,175000,,QRIS,Selesai,175000
+SEP0956,04/06/2026,SP003,Sandal Outdoor,Outdoor,44.0,pria,Yogyakarta,instagram,5,180000,Voucher,Transfer,Selesai,900000
+SEP0957,05/05/2026,SP012,Sandal Beach,Outdoor,44.0,wanita,Jakarta,Tokopedia,1,85000,Diskon 10%,transfer,Dibatalkan,85000
+SEP0958,02/05/2026,SP009,Sandal Travel,Outdoor,40.0,pria,Yogyakarta,Shopee,2,135000,,transfer,Selesai,270000
+SEP0959,16/02/2026,SP011,Sandal Outdoor,Outdoor,43.0,Wanita, SURAKARTA ,Website,3,180000,Diskon 10%,qris,Dibatalkan,540000
+SEP0960,24/06/2026,SP009,Sandal Slide,Casual,39.0,Laki-laki,Semarang,instagram,3,105000,Voucher,COD ,Selesai,315000
+SEP0961,27/03/2026,SP010,Sandal Sport,Sport,42.0,Wanita,Karanganyar,Website,1,160000,Diskon 20%,QRIS,Selesai,160000
+SEP0962,23/05/2026,SP006,Sandal Kids,Kids,41.0,Wanita,Jakarta,TikTok,3,80000,,COD ,Dikembalikan,240000
+SEP0963,06/11/2026,SP005,Sandal Premium,Premium,41.0,Pria, SURAKARTA ,Website,4,220000,,transfer,Dikembalikan,880000
+SEP0964,19/05/2026,SP001,Sandal Everyday,Comfort,42.0,Perempuan,Klaten,shopee,2,105000,Diskon 20%,qris,Selesai,210000
+SEP0965,25/04/2026,SP004,Sandal Premium,Premium,38.0,Wanita,Surakarta,Shopee,1,235000,Tidak Ada,E-Wallet,Selesai,235000
+SEP0966,21/03/2026,SP002,Sandal Travel,Outdoor,44.0,Perempuan,Semarang,Shopee,1,130000,Tidak Ada,Transfer,Dikembalikan,130000
+SEP0967,14/03/2026,SP006,Sandal Slide,Casual,44.0,Perempuan,Surakarta,Shopee,1,110000,Diskon 10%,QRIS,Selesai,110000
+SEP0968,02/01/2026,SP001,Sandal Everyday,Comfort,41.0,wanita,Sukoharjo,Tokopedia,2,115000,Diskon 10%,QRIS,Dikembalikan,230000
+SEP0969,26/01/2026,SP012,Sandal Outdoor,Outdoor,38.0,Laki-laki,Yogyakarta,Shopee,1,185000,,E-Wallet,Dikembalikan,185000
+SEP0970,16/03/2026,SP011,Sandal Flat,Fashion,39.0,Perempuan, SURAKARTA ,Website,2,105000,Voucher, QRIS ,Dikembalikan,210000
+SEP0971,16/04/2026,SP006,Sandal Beach,Outdoor,43.0,Pria,Semarang,shopee,1,85000,Tidak Ada,transfer,Selesai,85000
+SEP0972,28/06/2026,SP003,Sandal Everyday,Comfort,40.0,wanita,Yogyakarta,instagram,4,105000,Diskon 10%,COD,Selesai,420000
+SEP0973,13/01/2026,SP001,Sandal Travel,Outdoor,38.0,Wanita,Semarang,shopee,2,140000,Tidak Ada,QRIS,Selesai,280000
+SEP0974,20/06/2026,SP004,Sandal Kids,Kids,39.0,Perempuan,Solo,Shopee,1,70000,Tidak Ada,QRIS,Dibatalkan,70000
+SEP0975,24/05/2026,SP002,Sandal Urban,Fashion,44.0,Laki-laki,Semarang,TikTok,1,145000,,E-Wallet,Selesai,145000
+SEP0976,29/04/2026,SP002,Sandal Travel,Outdoor,39.0,wanita,Surakarta,instagram,2,140000,Diskon 20%,Transfer,Selesai,280000
+SEP0977,17/02/2026,SP001,Sandal Comfort,Comfort,41.0,pria,Karanganyar,Shopee,5,120000,Diskon 10%,QRIS,Dikembalikan,600000
+SEP0978,02/01/2026,SP010,Sandal Outdoor,Outdoor,38.0,Pria,Klaten,Shopee,2,175000,Voucher,COD,Dikembalikan,350000
+SEP0979,03/09/2026,SP006,Sandal Everyday,Comfort,44.0,Laki-laki,surakarta, TikTok ,1,105000,Tidak Ada,QRIS,Selesai,105000
+SEP0980,20/04/2026,SP002,Sandal Outdoor,Outdoor,41.0,Wanita,Bandung,instagram,2,185000,,E-Wallet,Selesai,370000
+SEP0981,13/04/2026,SP006,Sandal Comfort,Comfort,42.0,wanita,Sukoharjo,instagram,1,120000,,E-Wallet,Selesai,120000
+SEP0982,28/06/2026,SP010,Sandal Comfort,Comfort,43.0,Perempuan, SURAKARTA ,shopee,1,115000,,COD,Dibatalkan,115000
+SEP0983,15/03/2026,SP007,Sandal Slide,Casual,43.0,Pria, SURAKARTA ,Shopee,2,115000,Voucher,COD ,Selesai,230000
+SEP0984,28/03/2026,SP012,Sandal Everyday,Comfort,43.0,wanita,Bandung,instagram,1,110000,Diskon 10%,transfer,Selesai,110000
+SEP0985,24/05/2026,SP012,Sandal Beach,Outdoor,44.0,Pria,surakarta,Instagram,1,90000,Voucher,QRIS,Dibatalkan,90000
+SEP0986,17/01/2026,SP011,Sandal Urban,Fashion,39.0,Wanita,Karanganyar,instagram,1,140000,,transfer,Selesai,140000
+SEP0987,03/10/2026,SP002,Sandal Everyday,Comfort,42.0,Pria,Surakarta,Website,1,100000,Diskon 20%,E-Wallet,Selesai,100000
+SEP0988,22/04/2026,SP010,Sandal Sport,Sport,43.0,Pria,Karanganyar,Website,2,155000,Voucher,transfer,Dikembalikan,310000
+SEP0989,16/04/2026,SP004,Sandal Comfort,Comfort,39.0,pria,surakarta,Shopee,1,125000,Diskon 10%,QRIS,Selesai,125000
+SEP0990,31/03/2026,SP006,Sandal Sport,Sport,41.0,Perempuan,Yogyakarta,Shopee,3,155000,Voucher,QRIS,Dibatalkan,465000
+SEP0991,27/06/2026,SP006,Sandal Outdoor,Outdoor,39.0,Laki-laki,Karanganyar,shopee,1,185000,Voucher,COD,Dikembalikan,185000
+SEP0992,03/02/2026,SP009,Sandal Beach,Outdoor,43.0,pria,Surakarta,Website,1,90000,,COD ,Selesai,90000
+SEP0993,24/05/2026,SP008,Sandal Premium,Premium,39.0,wanita,Semarang,Instagram,3,225000,,transfer,Selesai,675000
+SEP0994,17/03/2026,SP004,Sandal Outdoor,Outdoor,41.0,wanita, yogyakarta ,Instagram,1,185000,,QRIS,Dikembalikan,185000
+SEP0995,06/12/2026,SP004,Sandal Premium,Premium,42.0,wanita,surakarta,Tokopedia,1,230000,Tidak Ada,COD,Dikembalikan,230000
+SEP0996,20/05/2026,SP002,Sandal Casual,Casual,,Wanita,Solo,Website,4,85000,Tidak Ada,transfer,Selesai,340000
+SEP0997,27/01/2026,SP008,Sandal Kids,Kids,39.0,Laki-laki,Surakarta,Instagram,2,75000,Voucher,Transfer,Selesai,150000
+SEP0998,03/11/2026,SP006,Sandal Sport,Sport,41.0,pria,Semarang,Instagram,4,160000,,transfer,Selesai,640000
+SEP0999,05/06/2026,SP009,Sandal Beach,Outdoor,43.0,Perempuan,Sukoharjo,TikTok,3,85000,Diskon 20%,transfer,Selesai,255000
+SEP1000,24/03/2026,SP005,Sandal Beach,Outdoor,43.0,pria,Surakarta,Website,2,90000,Voucher,qris,Selesai,180000
+SEP0247,13/01/2026,SP001,Sandal Flat,Fashion,43.0,Pria,Bandung,instagram,1,95000,Diskon 20%,qris,Selesai,95000
+SEP0133,04/08/2026,SP012,Sandal Flat,Fashion,40.0,Laki-laki,Yogyakarta,Shopee,1,90000,Diskon 10%,COD ,Dikembalikan,90000
+SEP0598,17/06/2026,SP002,Sandal Everyday,Comfort,38.0,Laki-laki,Surakarta,Shopee,1,110000,Diskon 20%,Transfer,Dikembalikan,110000
+SEP0135,04/04/2026,SP003,Sandal Slide,Casual,42.0,Pria,surakarta,shopee,2,110000,Tidak Ada,QRIS,Selesai,220000
+SEP0238,06/02/2026,SP008,Sandal Premium,Premium,41.0,Wanita,Semarang,instagram,2,230000,,QRIS,Dibatalkan,460000
+SEP0146,16/06/2026,SP006,Sandal Casual,Casual,44.0,Wanita, SURAKARTA ,Website,2,85000,,COD ,Dibatalkan,170000
+SEP0093,17/01/2026,SP010,Sandal Travel,Outdoor,41.0,wanita, SURAKARTA ,shopee,5,135000,Diskon 20%,Transfer,Selesai,675000
+SEP0578,23/01/2026,SP010,Sandal Kids,Kids,44.0,Perempuan,Solo,Shopee,2,80000,Tidak Ada,QRIS,Dikembalikan,160000
+SEP0925,21/03/2026,SP005,Sandal Travel,Outdoor,43.0,Pria,Surakarta,Tokopedia,2,140000,Voucher,qris,Selesai,280000
+SEP0473,16/05/2026,SP010,Sandal Flat,Fashion,38.0,pria,surakarta,Website,5,95000,,COD ,Selesai,475000
+SEP0998,03/11/2026,SP006,Sandal Slide,Casual,41.0,pria,Semarang,Instagram,4,120000,,transfer,Selesai,480000
+SEP0991,27/06/2026,SP006,Sandal Travel,Outdoor,39.0,Laki-laki,Karanganyar,shopee,1,135000,Voucher,COD,Dikembalikan,135000
