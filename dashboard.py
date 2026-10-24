@@ -72,7 +72,7 @@ filtered = df[
 st.title("Dashboard Penjualan Superstore")
 st.markdown(
     "Dashboard ini menyajikan performa penjualan, profit, dan pelanggan "
-    "toko Superstore selama periode 2014–2017. Analisis mencakup kategori "
+    "toko Superstore selama periode 2014-2017. Analisis mencakup kategori "
     "produk, wilayah, dan segmen pelanggan untuk mengetahui tren penjualan, "
     "produk dan wilayah dengan kontribusi terbesar, serta pengaruh diskon "
     "terhadap profit. Gunakan filter di sidebar untuk menjelajahi data dan "
