@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -15,9 +14,10 @@ def load_data():
         "Sample - Superstore.csv",
         encoding="cp1252"
     )
-    df["Order Date"] = pd.to_datetime(df["Order Date"])
-    df["Ship Date"] = pd.to_datetime(df["Ship Date"])
+    df["Order Date"] = pd.to_datetime(df["Order Date"], format="%m/%d/%Y")
+    df["Ship Date"] = pd.to_datetime(df["Ship Date"], format="%m/%d/%Y")
     return df
+
 
 df = load_data()
 
@@ -70,7 +70,22 @@ filtered = df[
 ].copy()
 
 st.title("Dashboard Penjualan Superstore")
-st.caption("Dashboard interaktif menggunakan Streamlit, Pandas, dan Plotly")
+st.markdown(
+    "Dashboard ini menyajikan performa penjualan, profit, dan pelanggan "
+    "toko Superstore selama periode 2014–2017. Analisis mencakup kategori "
+    "produk, wilayah, dan segmen pelanggan untuk mengetahui tren penjualan, "
+    "produk dan wilayah dengan kontribusi terbesar, serta pengaruh diskon "
+    "terhadap profit. Gunakan filter di sidebar untuk menjelajahi data dan "
+    "melihat hasil analisis sesuai kebutuhan."
+)
+st.caption(
+    "Sumber data: Superstore Dataset (Kaggle) | "
+    "Dibuat menggunakan Streamlit, Pandas, dan Plotly"
+)
+
+if filtered.empty:
+    st.warning("Tidak ada data untuk filter yang dipilih. Ubah filter di sidebar.")
+    st.stop()
 
 total_sales = filtered["Sales"].sum()
 total_profit = filtered["Profit"].sum()
@@ -104,6 +119,8 @@ fig = px.line(
 fig.update_layout(yaxis_title="Penjualan ($)", xaxis_title="")
 st.plotly_chart(fig, use_container_width=True)
 
+col_a, col_b = st.columns(2)
+
 category_sales = (
     filtered.groupby("Category", as_index=False)["Sales"]
     .sum()
@@ -118,7 +135,22 @@ fig = px.bar(
     text_auto=".2s"
 )
 fig.update_layout(yaxis_title="Penjualan ($)", xaxis_title="")
-st.plotly_chart(fig, use_container_width=True)
+col_a.plotly_chart(fig, use_container_width=True)
+
+region_sales = (
+    filtered.groupby("Region", as_index=False)["Sales"]
+    .sum()
+    .sort_values("Sales", ascending=False)
+)
+
+fig = px.pie(
+    region_sales,
+    names="Region",
+    values="Sales",
+    title="Kontribusi Penjualan per Wilayah",
+    hole=0.45
+)
+col_b.plotly_chart(fig, use_container_width=True)
 
 product_sales = (
     filtered.groupby("Product Name", as_index=False)["Sales"]
@@ -138,26 +170,57 @@ fig = px.bar(
 fig.update_layout(xaxis_title="Penjualan ($)", yaxis_title="")
 st.plotly_chart(fig, use_container_width=True)
 
-region_sales = (
-    filtered.groupby("Region", as_index=False)["Sales"]
-    .sum()
-    .sort_values("Sales", ascending=False)
+fig = px.scatter(
+    filtered,
+    x="Sales",
+    y="Profit",
+    color="Category",
+    opacity=0.6,
+    hover_data=["Product Name", "Sub-Category"],
+    title="Hubungan Penjualan dan Profit"
+)
+fig.update_layout(xaxis_title="Penjualan ($)", yaxis_title="Profit ($)")
+st.plotly_chart(fig, use_container_width=True)
+
+col_c, col_d = st.columns(2)
+
+fig = px.histogram(
+    filtered,
+    x="Discount",
+    title="Distribusi Diskon"
+)
+fig.update_traces(xbins=dict(start=-0.05, end=0.85, size=0.1))
+fig.update_xaxes(tickmode="linear", tick0=0, dtick=0.1, tickformat=".0%")
+fig.update_layout(
+    xaxis_title="Diskon",
+    yaxis_title="Jumlah Transaksi",
+    bargap=0.1
+)
+col_c.plotly_chart(fig, use_container_width=True)
+
+heat = filtered.pivot_table(
+    index="Sub-Category",
+    columns="Region",
+    values="Profit",
+    aggfunc="sum",
+    fill_value=0
 )
 
-fig = px.pie(
-    region_sales,
-    names="Region",
-    values="Sales",
-    title="Kontribusi Penjualan per Wilayah",
-    hole=0.45
+fig = px.imshow(
+    heat,
+    text_auto=".0f",
+    aspect="auto",
+    color_continuous_scale="RdYlGn",
+    color_continuous_midpoint=0,
+    title="Heatmap Profit: Sub-Category x Wilayah ($)"
 )
-st.plotly_chart(fig, use_container_width=True)
+fig.update_layout(xaxis_title="", yaxis_title="")
+col_d.plotly_chart(fig, use_container_width=True)
 
 st.subheader("Detail Transaksi")
 
-display_df = filtered.sort_values(
-    "Order Date", ascending=False
-).copy()
+display_df = filtered.sort_values("Order Date", ascending=False).copy()
+display_df["Discount"] = display_df["Discount"] * 100
 
 st.dataframe(
     display_df,
